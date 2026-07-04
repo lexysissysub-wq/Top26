@@ -852,4 +852,7 @@ https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
 #EXTINF:0,Action HollywoodMovies
 #EXTGRP:Uj Zeland
 https://tinyurl.com/rw75jur3?.m3u8
+#EXTINF:0,CNA CHANNEL NEWS ASIA
+#EXTGRP:Hírek
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
