@@ -3252,3 +3252,108 @@ http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42968.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Trying S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rd8PyXkbpW76HiDyWFXdqJHwprw.jpg" group-title="SERIES | APPLE TV+",Trying S03 E08
 http://neosfpoo.top:8080/series/8831762457758409/1d850f738f6a/42969.mkv
 
+
+
+#EXTM3U
+#EXTINF:-1 group-title="France",France 2 HD
+http://151.80.18.177:86/France_2_HD/index.m3u8
+#EXTINF:-1 group-title="France",France 3 HD
+http://151.80.18.177:86/France_3_HD/index.m3u8
+#EXTINF:-1 group-title="France",France 4 HD
+http://151.80.18.177:86/France_4_HD/index.m3u8
+#EXTINF:-1 group-title="France",France 5 HD
+http://151.80.18.177:86/France_5_HD/index.m3u8
+#EXTINF:-1 group-title="France",Canal+ HD
+http://151.80.18.177:86/Canal+_HD/index.m3u8
+#EXTINF:-1 group-title="France",Canal+ Cinema HD
+http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
+#EXTINF:-1 group-title="France",Canal+ Family
+http://151.80.18.177:86/Canal+_Family_HD/index.m3u8
+#EXTINF:-1 group-title="France",Comedie+ HD
+http://151.80.18.177:86/Comedie+_HD/index.m3u8
+#EXTINF:-1 group-title="France",13EME RUE
+http://151.80.18.177:86/13_Eme_Rue_HD/index.m3u8
+#EXTINF:-1 group-title="France",TCM Cinema
+http://151.80.18.177:86/TCM_Cinema_HD/index.m3u8
+#EXTINF:-1 group-title="France",Serie Club
+http://151.80.18.177:86/Serie_Club_HD/index.m3u8
+#EXTINF:-1 group-title="France",Cine+ Famiz
+http://151.80.18.177:86/Cine+_Famiz_HD/index.m3u8
+#EXTINF:-1 group-title="France",Cine+ Emotion HD
+http://151.80.18.177:86/Cine+_Emotion_HD/index.m3u8
+#EXTINF:-1 group-title="France",Cine+ Classic
+http://151.80.18.177:86/Cine+_Classic_HD/index.m3u8
+#EXTINF:-1 group-title="France",ARTE HD
+http://151.80.18.177:86/ARTE_HD/index.m3u8
+#EXTINF:-1 group-title="France",Paris Premiere HD
+http://151.80.18.177:86/Paris_Premiere_HD/index.m3u8
+#EXTINF:-1 group-title="France",AB1 HD
+http://151.80.18.177:86/AB1/index.m3u8
+#EXTINF:-1 group-title="France",RTL 9 HD
+http://151.80.18.177:86/RTL9/index.m3u8
+#EXTINF:-1 group-title="France",TF1 HD
+http://151.80.18.177:86/TF1_HD/index.m3u8
+#EXTINF:-1 group-title="France",Teva HD
+http://151.80.18.177:86/Teva_HD/index.m3u8
+#EXTINF:-1 group-title="France",Animaux
+http://151.80.18.177:86/Animaux/index.m3u8
+#EXTINF:-1 group-title="France",National Geo HD
+http://151.80.18.177:86/National_Geo_HD/index.m3u8
+#EXTINF:-1 group-title="France",Histoire HD
+http://151.80.18.177:86/Histoire/index.m3u8
+#EXTINF:-1 group-title="France",Discovery HD
+http://151.80.18.177:86/Discovery_HD/index.m3u8
+#EXTINF:-1 group-title="France",RMC DECOUVERDE
+http://151.80.18.177:86/RMC_Decouverte_HD/index.m3u8
+#EXTINF:-1 group-title="France",Planete+
+http://151.80.18.177:86/Planete+_HD/index.m3u8
+#EXTINF:-1 group-title="France",Planete+ A&E
+http://151.80.18.177:86/Planete+_AE_HD/index.m3u8
+#EXTINF:-1 group-title="France",Planete+ CI
+http://151.80.18.177:86/Planete+_CI_HD/index.m3u8
+#EXTINF:-1 group-title="France",6TER HD
+http://151.80.18.177:86/6ter/index.m3u8
+#EXTINF:-1 group-title="France",M6 HD
+http://151.80.18.177:86/M6_HD/index.m3u8
+#EXTINF:-1 group-title="France",W9 HD
+http://151.80.18.177:86/W9_HD/index.m3u8
+#EXTINF:-1 group-title="France",NRJ12 HD
+http://151.80.18.177:86/NRJ_12_HD/index.m3u8
+#EXTINF:-1 group-title="France",TRACE URBAN
+http://151.80.18.177:86/Trace_Urban_HD/index.m3u8
+#EXTINF:-1 group-title="France",D17 CSTAR HD
+http://151.80.18.177:86/D17_HD/index.m3u8
+#EXTINF:-1 group-title="France",CANAL+ Sport
+http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
+#EXTINF:-1 group-title="France",Infosport+
+http://151.80.18.177:86/Infosport+_HD/index.m3u8
+#EXTINF:-1 group-title="France",GOLF+
+http://151.80.18.177:86/GOLF+_HD/index.m3u8
+#EXTINF:-1 group-title="France",Euro Sport HD
+http://151.80.18.177:86/Eurosport_HD/index.m3u8
+#EXTINF:-1 group-title="France",Euro Sport 2 HD
+http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
+#EXTINF:-1 group-title="France",Mangas HD
+http://151.80.18.177:86/Manga/index.m3u8
+#EXTINF:-1 group-title="France",Teletoon+ HD
+http://151.80.18.177:86/Teletoon+_HD/index.m3u8
+#EXTINF:-1 group-title="France",Piwi+
+http://151.80.18.177:86/Piwi+_HD/index.m3u8
+#EXTINF:-1 group-title="France",Disney HD
+http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
+#EXTINF:-1 group-title="France",Disney JR HD
+http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
+#EXTINF:-1 group-title="France",Disney JR HD
+http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
+#EXTINF:-1 group-title="France",Nickelodeon HD
+http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
+#EXTINF:-1 group-title="France",Tiji HD
+http://151.80.18.177:86/Tiji_HD/index.m3u8
+#EXTINF:-1 group-title="France",Canal J
+http://151.80.18.177:86/Canal_J_HD/index.m3u8
+#EXTINF:-1 group-title="France",LCI HD
+http://151.80.18.177:86/LCI_HD/index.m3u8
+#EXTINF:-1 group-title="France",EQUIPE21 HD
+http://151.80.18.177:86/EQUIPE21_HD/index.m3u8
+#EXTINF:-1 group-title="France",iTele
+http://151.80.18.177:86/iTele_HD/index.m3u8
