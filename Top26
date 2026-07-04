@@ -1069,9 +1069,9 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT
 #EXTINF:-1,Lemon TV
 http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-??VPN",TV1000
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="VPN",TV1000
 http://api.peers.tv/timeshift/tv1000/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODMxNDc4ODcsImlhdCI6MTc4MzA2MTQ4NywiY2lkIjo2LCJ1aWQiOjEwNjIxNzgzNDUsInJlZyI6ZmFsc2UsImlwIjo3NjEyNTI4NjAsImFkdWx0IjpmYWxzZX0.YXa7k8dbfhTPKW0J2rz62SbyqXptfidlTg1Iq2biJW0&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-??VPN",TV1000 Action
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="VPN",TV1000 Action
 http://api.peers.tv/timeshift/tv1000_action/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODMxNDc4ODcsImlhdCI6MTc4MzA2MTQ4NywiY2lkIjo2LCJ1aWQiOjEwNjIxNzgzNDUsInJlZyI6ZmFsc2UsImlwIjo3NjEyNTI4NjAsImFkdWx0IjpmYWxzZX0.YXa7k8dbfhTPKW0J2rz62SbyqXptfidlTg1Iq2biJW0&offset=10
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-??VPN",TV1000 
 http://api.peers.tv/timeshift/tv_1000_rus_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODMxNDc4ODcsImlhdCI6MTc4MzA2MTQ4NywiY2lkIjo2LCJ1aWQiOjEwNjIxNzgzNDUsInJlZyI6ZmFsc2UsImlwIjo3NjEyNTI4NjAsImFkdWx0IjpmYWxzZX0.YXa7k8dbfhTPKW0J2rz62SbyqXptfidlTg1Iq2biJW0&offset=10
@@ -1088,7 +1088,7 @@ http://api.peers.tv/timeshift/premera/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiI
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-??VPN",Kinohit
 http://api.peers.tv/timeshift/kinohit/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODMxNDc4ODcsImlhdCI6MTc4MzA2MTQ4NywiY2lkIjo2LCJ1aWQiOjEwNjIxNzgzNDUsInJlZyI6ZmFsc2UsImlwIjo3NjEyNTI4NjAsImFkdWx0IjpmYWxzZX0.YXa7k8dbfhTPKW0J2rz62SbyqXptfidlTg1Iq2biJW0&offset=10
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-??VPN",Kinoplus
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="VPN",Kinoplus
 http://api.peers.tv/timeshift/ntv_kino_plyus/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODMxNDc4ODcsImlhdCI6MTc4MzA2MTQ4NywiY2lkIjo2LCJ1aWQiOjEwNjIxNzgzNDUsInJlZyI6ZmFsc2UsImlwIjo3NjEyNTI4NjAsImFkdWx0IjpmYWxzZX0.YXa7k8dbfhTPKW0J2rz62SbyqXptfidlTg1Iq2biJW0&offset=10
 
 
@@ -1105,7 +1105,7 @@ http://api.peers.tv/timeshift/ntv_kino_plyus/16/playlist.m3u8?token=eyJhbGciOiJI
 
 
 
-#EXTINF:-1 group-title="?? Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,R Film24
+#EXTINF:-1 group-title="Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,R Film24
 https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="?? Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,R Film 25
 https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
@@ -1183,7 +1183,7 @@ https://live20.bozztv.com/giatvplayout7/ushba-aivideo/index.m3u8
 
 
 
-#EXTINF:-1 group-title=" Viju VPN",TV1000 HD
+#EXTINF:-1 group-title=" VPN",TV1000 HD
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=fzchBV1ACcQqFaWvyJQZpw&e=1783438348&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="VPN",TV1000 Action HD
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=ZxXbQi5AgCgaILCZ5_JPjg&e=1783438361&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
@@ -1224,7 +1224,7 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 group-title=" VPN",Kino Tv
 http://31.148.48.15:80/Kino_TV/index.m3u8
-#EXTINF:-1 group-title=" ? VPN",Kino HD
+#EXTINF:-1 group-title=" VPN",Kino HD
 http://31.148.48.15:80/Kino_TV_HD/index.m3u8
 #EXTINF:-1 group-title=" VPN",Kinopokaz
 http://31.148.48.15:80/Kinopokaz/index.m3u8
