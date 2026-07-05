@@ -1,262 +1,284 @@
 #EXTINF:0,SPORT 2
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.167:2000
 #EXTINF:0,HBO HD
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.37:2000
 
+
+#EXTINF:-1 tvg-id="" tvg-name="HU: Sport 1"
+group-title="Hungary"
+ tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/6653879ce8d30b2712fcf545611808a2.png" group-title="Hungary ? Sports",HU: Sport 1
+http://iptvtree.net:8080/F25660/4184162c/14987
+#EXTINF:-1 tvg-id="" tvg-name="HU: TV 2" group-title="Hungary"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/90c43dc417ef95fec491b052ddf2c4ef.png" group-title="Hungary ? Movie",HU: TV 2
+http://iptvtree.net:8080/F25660/4184162c/14990
+#EXTINF:-1 tvg-id="" tvg-name="HU: Duna TV"group-title="Hungary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/8a7e4c157f49069a8a79c269c47b189f.png" group-title="Hungary ? LifeStyle",HU: Duna TV
+http://iptvtree.net:8080/F25660/4184162c/14997
+#EXTINF:-1 tvg-id="" tvg-name="HU: RTL Harom" group-title="Hungary"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-06/15mJbZXyQ6PFBt2JGpD7w3FFCyRhVmfQBi.png" group-title="Hungary ? LifeStyle",HU: RTL Harom
+http://iptvtree.net:8080/F25660/4184162c/47737
+#EXTINF:-1 tvg-id="" tvg-name="HU: RTL Ketto"group-title="Hungary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-11/15mJbZXyQ6PFBt2JGpD7w3FFCyRhVmfQBi.svg" group-title="Hungary ? LifeStyle",HU: RTL Ketto
+http://iptvtree.net:8080/F25660/4184162c/308778
+#EXTINF:-1 tvg-id="" tvg-name="HU: RTL Klub" group-title="Hungary"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/efa2de5cb94e65eac06b59fdcbcf0477.png" group-title="Hungary ? LifeStyle",HU: RTL Klub
+http://iptvtree.net:8080/F25660/4184162c/23933
+#EXTINF:-1 tvg-id="" tvg-name="HU: RTL Otthon"group-title="Hungary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-11/15mJbZXyQ6PFBt2JGpD7w3FFCyRhVmfQBi.svg" group-title="Hungary ? LifeStyle",HU: RTL Otthon
+http://iptvtree.net:8080/F25660/4184162c/308777
+#EXTINF:-1 tvg-id="" tvg-name="HU: RTL Television" group-title="Hungary"tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="Hungary ? LifeStyle",HU: RTL Television
+http://iptvtree.net:8080/F25660/4184162c/307269
+#EXTINF:-1 tvg-id="" tvg-name="HU: RTL+" group-title="Hungary"tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="Hungary ? LifeStyle",HU: RTL+
+http://iptvtree.net:8080/F25660/4184162c/307606
+
 #EXTINF:0,HBO2 HD
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.38:2000
 #EXTINF:0,CINEMAX HD
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.40:2000
 #EXTINF:0,MAGYAR MOZI TV
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.76:2000
 #EXTINF:0,M1 HD
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.1:2000
 
 #EXTINF:0,TV2 SUPER HD
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.113:2000
 #EXTINF:0,RTL 2HD
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.124:2000
 #EXTINF:0,PRIME
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.63:2000
 #EXTINF:0,M4 SPORT HD
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.135:2000
 #EXTINF:0,SPILER
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.154:2000
 #EXTINF:0,SPILER 2
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.155:2000
 #EXTINF:0,MATCH 4 HD
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.19:2000
 #EXTINF:0,ARENA 4 HD
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.62:2000
 
 #EXTINF:0,FILM+ HD
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.126:2000
 #EXTINF:0,COOL HD
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.125:2000
 #EXTINF:0,AMC
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.139:2000
 #EXTINF:0,MOZI+
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.64:2000
 #EXTINF:0,VIASAT 3
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.16:2000
 #EXTINF:0,VIASAT 2
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.118:2000
 #EXTINF:0,VIASAT 6
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.79:2000
 #EXTINF:0,DUNA WORLD HD
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.4:2000
 
 #EXTINF:0,HISTORY HD
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.116:2000
 #EXTINF:0,HISTORY HD
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.116:2000
 
 #EXTINF:0,BBC EARTH
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.106:2000
 #EXTINF:0,VIASAT HISTORY
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.78:2000
 #EXTINF:0,SOROZAT+
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.128:2000
 #EXTINF:0,EPIC DRAMA
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.163:2000
 #EXTINF:0,FILM MANIA HD
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.96:2000
 #EXTINF:0,MOZIVERZUM
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.158:2000
 #EXTINF:0,VIASAT FILM
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.117:2000
 #EXTINF:0,FILMBOX STARS
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.175:2000
 #EXTINF:0,JOCKY TV
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.159:2000
 #EXTINF:0,TV4
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.34:2000
 #EXTINF:0,FILM 4
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.164:2000
 #EXTINF:0,AXN
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.132:2000
 #EXTINF:0,STORY 4
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.85:2000
 #EXTINF:0,MAX4
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.75:2000
 #EXTINF:0,IZAURA TV
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.145:2000
 #EXTINF:0,LIFE
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.90:2000
 #EXTINF:0,ATV
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.152:2000
 #EXTINF:0,ATV EXTRA
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.161:2000
 #EXTINF:0,SOROZAT KLUB
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.72:2000
 #EXTINF:0,Dance Tv
-#EXTGRP:MAGYAR
+group-title="Hungary"
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 #EXTINF:0,DANCE TV
-#EXTGRP:MAGYAR
+group-title="Hungary"
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 #EXTINF:0,EUROSPORT 1
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.120:2000
 #EXTINF:0,EUROSPORT 2
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.121:2000
 #EXTINF:0,OZONE HD
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.52:2000
 #EXTINF:0,SPEKTRUM
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.165:2000
 #EXTINF:0,SPEKTRUM HOME
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.166:2000
 #EXTINF:0,DISCOVERY ID
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.70:2000
 #EXTINF:0,CARTOON NETWORK
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.74:2000
 #EXTINF:0,TV2 KIDS
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.148:2000
 #EXTINF:0,NICK JR
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.140:2000
 #EXTINF:0,TV2 COMEDY
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.146:2000
 #EXTINF:0,PANNON RTV
-#EXTGRP:MAGYAR
+group-title="Hungary"
 https://stream.nmih.hu:4102/live.m3u8
 #EXTINF:0,VIASAT EXPLORER
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.28:2000
 #EXTINF:0,BALATON TV
-#EXTGRP:MAGYAR
+group-title="Hungary"
 https://stream.iptvservice.eu/hls/balatontv.m3u8
 #EXTINF:0,TRAVEL
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.104:2000
 #EXTINF:0,RTL OTTHON HD
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.93:2000
 #EXTINF:0,VIASAT NATURE HD
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.65:2000
 #EXTINF:0,NAT GEO WILD HD
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.60:2000
 #EXTINF:0,ANIMAL PLANET
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.102:2000
 #EXTINF:0,TLC
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.151:2000
 #EXTINF:0,DISCOVERY
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.150:2000
 #EXTINF:0,JAZZ TV
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.11:2000
 #EXTINF:0,SLÁGER TV
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.89:2000
 #EXTINF:0,ZENEBUTIK
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.149:2000
 #EXTINF:0,DA VINCI
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.141:2000
 #EXTINF:0,MINIMAX
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.26:2000
 #EXTINF:0,TV2 KLUB
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.144:2000
 #EXTINF:0,DISNEY CHANNEL
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.88:2000
 #EXTINF:0,NICKTOONS
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.112:2000
 #EXTINF:0,TV2 SÉF
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.147:2000
 
 #EXTINF:0,KÖLYOK KLUB HD
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.115:2000
 #EXTINF:0,DIKH
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.157:2000
 #EXTINF:0,TV EGER
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://stream.tveger.hu:8010/live.m3u8
 #EXTINF:0,PAX
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.10:2000
 #EXTINF:0,CARTOONITO
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.87:2000
 
 
 #EXTINF:0,The Fishing And Hunting
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.98:2000
 #EXTINF:0,JIM JAM
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.46:2000
 #EXTINF:0,Duck  Tv
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.97:2000
 #EXTINF:0,APOSTOL TV
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.51:2000
 #EXTINF:0,HETI TV
-#EXTGRP:MAGYAR
+group-title="Hungary"
 http://213.163.13.122:1559/udp/239.1.10.54:2000
 
 #EXTINF:0,NDR HD
