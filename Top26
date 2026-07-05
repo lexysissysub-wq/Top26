@@ -1,4 +1,190 @@
+
+
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="HU: AMC" tvg-logo="" group-title="Hungary",HU: AMC
+http://lunar.pm:8080/Garys/Noother25/122068
+#EXTINF:-1 tvg-id="" tvg-name="HU: ANIMAL PLANET" tvg-logo="" group-title="Hungary",HU: ANIMAL PLANET
+http://lunar.pm:8080/Garys/Noother25/122069
+#EXTINF:-1 tvg-id="" tvg-name="HU: ATV" tvg-logo="" group-title="Hungary",HU: ATV
+http://lunar.pm:8080/Garys/Noother25/122070
+#EXTINF:-1 tvg-id="" tvg-name="HU: AXN" tvg-logo="" group-title="Hungary",HU: AXN
+http://lunar.pm:8080/Garys/Noother25/122071
+#EXTINF:-1 tvg-id="" tvg-name="HU: AXN BLACK" tvg-logo="" group-title="Hungary",HU: AXN BLACK
+http://lunar.pm:8080/Garys/Noother25/122072
+#EXTINF:-1 tvg-id="" tvg-name="HU: AXN WHITE" tvg-logo="" group-title="Hungary",HU: AXN WHITE
+http://lunar.pm:8080/Garys/Noother25/122073
+#EXTINF:-1 tvg-id="" tvg-name="HU: BBC EARTH" tvg-logo="http://landiptv.vip:2095/images/HjwEu7iTOqkLhxl1ITLIBc39Hi7kb52dUmUaj-uOFoZoWcPOvnDyvD8eDnCn5kZc.png" group-title="Hungary",HU: BBC EARTH
+http://lunar.pm:8080/Garys/Noother25/122074
+#EXTINF:-1 tvg-id="" tvg-name="HU: Cartoonito" tvg-logo="" group-title="Hungary",HU: Cartoonito
+http://lunar.pm:8080/Garys/Noother25/122075
+#EXTINF:-1 tvg-id="" tvg-name="HU: CARTOON NETWORK" tvg-logo="" group-title="Hungary",HU: CARTOON NETWORK
+http://lunar.pm:8080/Garys/Noother25/122076
+#EXTINF:-1 tvg-id="" tvg-name="HU: CBS REALITY" tvg-logo="" group-title="Hungary",HU: CBS REALITY
+http://lunar.pm:8080/Garys/Noother25/122077
+#EXTINF:-1 tvg-id="" tvg-name="HU: Cinemax 1" tvg-logo="" group-title="Hungary",HU: Cinemax 1
+http://lunar.pm:8080/Garys/Noother25/122078
+#EXTINF:-1 tvg-id="" tvg-name="HU: CINEMAX 2" tvg-logo="" group-title="Hungary",HU: CINEMAX 2
+http://lunar.pm:8080/Garys/Noother25/122079
+#EXTINF:-1 tvg-id="" tvg-name="HU: COMEDY CENTRAL" tvg-logo="" group-title="Hungary",HU: COMEDY CENTRAL
+http://lunar.pm:8080/Garys/Noother25/122080
+#EXTINF:-1 tvg-id="" tvg-name="HU: COOL" tvg-logo="" group-title="Hungary",HU: COOL
+http://lunar.pm:8080/Garys/Noother25/122081
+#EXTINF:-1 tvg-id="" tvg-name="HU: DIGI ANIMAL WORLD" tvg-logo="" group-title="Hungary",HU: DIGI ANIMAL WORLD
+http://lunar.pm:8080/Garys/Noother25/122082
+#EXTINF:-1 tvg-id="" tvg-name="HU: DIGI LIFE" tvg-logo="" group-title="Hungary",HU: DIGI LIFE
+http://lunar.pm:8080/Garys/Noother25/122083
+#EXTINF:-1 tvg-id="" tvg-name="HU: DIGI SPORT 1" tvg-logo="" group-title="Hungary",HU: DIGI SPORT 1
+http://lunar.pm:8080/Garys/Noother25/122084
+#EXTINF:-1 tvg-id="" tvg-name="HU: DIGI SPORT 2" tvg-logo="" group-title="Hungary",HU: DIGI SPORT 2
+http://lunar.pm:8080/Garys/Noother25/122085
+#EXTINF:-1 tvg-id="" tvg-name="HU: DIGI SPORT 3" tvg-logo="" group-title="Hungary",HU: DIGI SPORT 3
+http://lunar.pm:8080/Garys/Noother25/122086
+#EXTINF:-1 tvg-id="" tvg-name="HU: DIGI WORLD" tvg-logo="" group-title="Hungary",HU: DIGI WORLD
+http://lunar.pm:8080/Garys/Noother25/122087
+#EXTINF:-1 tvg-id="" tvg-name="HU: DIKH TV" tvg-logo="" group-title="Hungary",HU: DIKH TV
+http://lunar.pm:8080/Garys/Noother25/122088
+#EXTINF:-1 tvg-id="" tvg-name="HU: DISCOVERY CHANNEL" tvg-logo="" group-title="Hungary",HU: DISCOVERY CHANNEL
+http://lunar.pm:8080/Garys/Noother25/122089
+#EXTINF:-1 tvg-id="" tvg-name="HU: DISNEY CHANNEL" tvg-logo="http://landiptv.vip:2095/images/HjwEu7iTOqkLhxl1ITLIBVwXYbrW9CRvwM5EvNZJV8zrqA3sZVtLbu1KZSTRnq9j.png" group-title="Hungary",HU: DISNEY CHANNEL
+http://lunar.pm:8080/Garys/Noother25/122090
+#EXTINF:-1 tvg-id="" tvg-name="HU: DUCK TV" tvg-logo="" group-title="Hungary",HU: DUCK TV
+http://lunar.pm:8080/Garys/Noother25/122091
+#EXTINF:-1 tvg-id="" tvg-name="HU: DUNA" tvg-logo="" group-title="Hungary",HU: DUNA
+http://lunar.pm:8080/Garys/Noother25/122092
+#EXTINF:-1 tvg-id="" tvg-name="HU: DUNA WORLD" tvg-logo="" group-title="Hungary",HU: DUNA WORLD
+http://lunar.pm:8080/Garys/Noother25/122093
+#EXTINF:-1 tvg-id="" tvg-name="HU: EUROSPORT 1" tvg-logo="" group-title="Hungary",HU: EUROSPORT 1
+http://lunar.pm:8080/Garys/Noother25/122094
+#EXTINF:-1 tvg-id="" tvg-name="HU: EUROSPORT 2" tvg-logo="" group-title="Hungary",HU: EUROSPORT 2
+http://lunar.pm:8080/Garys/Noother25/122095
+#EXTINF:-1 tvg-id="" tvg-name="HU: EXTREME SPORTS [Live During Events Only]" tvg-logo="" group-title="Hungary",HU: EXTREME SPORTS [Live During Events Only]
+http://lunar.pm:8080/Garys/Noother25/122096
+#EXTINF:-1 tvg-id="" tvg-name="HU: FEM 3" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuumtnCBry0sGxmKTUmbVl_0cniFkPdaq1rPr0QorkSw8e9A.png" group-title="Hungary",HU: FEM 3
+http://lunar.pm:8080/Garys/Noother25/122097
+#EXTINF:-1 tvg-id="" tvg-name="HU: FILM" tvg-logo="" group-title="Hungary",HU: FILM
+http://lunar.pm:8080/Garys/Noother25/122098
+#EXTINF:-1 tvg-id="" tvg-name="HU: FILM 4" tvg-logo="" group-title="Hungary",HU: FILM 4
+http://lunar.pm:8080/Garys/Noother25/122099
+#EXTINF:-1 tvg-id="" tvg-name="HU: FILM Box Extra" tvg-logo="" group-title="Hungary",HU: FILM Box Extra
+http://lunar.pm:8080/Garys/Noother25/122100
+#EXTINF:-1 tvg-id="" tvg-name="HU: FILM CAFE" tvg-logo="" group-title="Hungary",HU: FILM CAFE
+http://lunar.pm:8080/Garys/Noother25/122101
+#EXTINF:-1 tvg-id="" tvg-name="HU: FILM MANIA" tvg-logo="http://landiptv.vip:2095/images/HjwEu7iTOqkLhxl1ITLIBQKLjLmQc-J2qjcFHBtybP8ZaL3SnXQN5Eo5PWHy1vQh.png" group-title="Hungary",HU: FILM MANIA
+http://lunar.pm:8080/Garys/Noother25/122102
+#EXTINF:-1 tvg-id="" tvg-name="HU: FILM NOW" tvg-logo="" group-title="Hungary",HU: FILM NOW
+http://lunar.pm:8080/Garys/Noother25/122103
+#EXTINF:-1 tvg-id="" tvg-name="HU: FILMBOX ARTHOUSE" tvg-logo="" group-title="Hungary",HU: FILMBOX ARTHOUSE
+http://lunar.pm:8080/Garys/Noother25/122104
+#EXTINF:-1 tvg-id="" tvg-name="HU: FILMBOX PREMIUM" tvg-logo="" group-title="Hungary",HU: FILMBOX PREMIUM
+http://lunar.pm:8080/Garys/Noother25/122105
+#EXTINF:-1 tvg-id="" tvg-name="HU: FIX" tvg-logo="" group-title="Hungary",HU: FIX
+http://lunar.pm:8080/Garys/Noother25/122106
+#EXTINF:-1 tvg-id="" tvg-name="HU: FOOD NETWORK" tvg-logo="" group-title="Hungary",HU: FOOD NETWORK
+http://lunar.pm:8080/Garys/Noother25/122107
+#EXTINF:-1 tvg-id="" tvg-name="HU: GALAXY 4 VIP" tvg-logo="" group-title="Hungary",HU: GALAXY 4 VIP
+http://lunar.pm:8080/Garys/Noother25/122108
+#EXTINF:-1 tvg-id="" tvg-name="HU: HBO 1" tvg-logo="" group-title="Hungary",HU: HBO 1
+http://lunar.pm:8080/Garys/Noother25/122109
+#EXTINF:-1 tvg-id="" tvg-name="HU: HBO 2" tvg-logo="" group-title="Hungary",HU: HBO 2
+http://lunar.pm:8080/Garys/Noother25/122110
+#EXTINF:-1 tvg-id="" tvg-name="HU: HBO 3" tvg-logo="" group-title="Hungary",HU: HBO 3
+http://lunar.pm:8080/Garys/Noother25/122111
+#EXTINF:-1 tvg-id="" tvg-name="HU: HISTORY" tvg-logo="" group-title="Hungary",HU: HISTORY
+http://lunar.pm:8080/Garys/Noother25/122112
+#EXTINF:-1 tvg-id="" tvg-name="HU: IZAURA TV" tvg-logo="" group-title="Hungary",HU: IZAURA TV
+http://lunar.pm:8080/Garys/Noother25/122113
+#EXTINF:-1 tvg-id="" tvg-name="HU: JIMJAM" tvg-logo="" group-title="Hungary",HU: JIMJAM
+http://lunar.pm:8080/Garys/Noother25/122114
+#EXTINF:-1 tvg-id="" tvg-name="HU: JOCKY TV" tvg-logo="" group-title="Hungary",HU: JOCKY TV
+http://lunar.pm:8080/Garys/Noother25/122115
+#EXTINF:-1 tvg-id="" tvg-name="HU: LIFE NETWORK" tvg-logo="" group-title="Hungary",HU: LIFE NETWORK
+http://lunar.pm:8080/Garys/Noother25/122116
+#EXTINF:-1 tvg-id="" tvg-name="HU: M1" tvg-logo="" group-title="Hungary",HU: M1
+http://lunar.pm:8080/Garys/Noother25/122117
+#EXTINF:-1 tvg-id="" tvg-name="HU: M2" tvg-logo="" group-title="Hungary",HU: M2
+http://lunar.pm:8080/Garys/Noother25/122118
+#EXTINF:-1 tvg-id="" tvg-name="HU: M4" tvg-logo="" group-title="Hungary",HU: M4
+http://lunar.pm:8080/Garys/Noother25/122119
+#EXTINF:-1 tvg-id="" tvg-name="HU: M5" tvg-logo="" group-title="Hungary",HU: M5
+http://lunar.pm:8080/Garys/Noother25/122120
+#EXTINF:-1 tvg-id="" tvg-name="HU: MEGAMAX" tvg-logo="http://landiptv.vip:2095/images/HjwEu7iTOqkLhxl1ITLIBW5NlfaMk_l0VFAvRwIqUFwbMxVG0t1-3otR4kkQBNoe.png" group-title="Hungary",HU: MEGAMAX
+http://lunar.pm:8080/Garys/Noother25/122121
+#EXTINF:-1 tvg-id="" tvg-name="HU: MINIMAX" tvg-logo="" group-title="Hungary",HU: MINIMAX
+http://lunar.pm:8080/Garys/Noother25/122122
+#EXTINF:-1 tvg-id="" tvg-name="HU: MOZI" tvg-logo="" group-title="Hungary",HU: MOZI
+http://lunar.pm:8080/Garys/Noother25/122123
+#EXTINF:-1 tvg-id="" tvg-name="HU: NAT GEO" tvg-logo="" group-title="Hungary",HU: NAT GEO
+http://lunar.pm:8080/Garys/Noother25/122124
+#EXTINF:-1 tvg-id="" tvg-name="HU: NAT GEO WILD" tvg-logo="" group-title="Hungary",HU: NAT GEO WILD
+http://lunar.pm:8080/Garys/Noother25/122125
+#EXTINF:-1 tvg-id="" tvg-name="HU: NICKELODEON" tvg-logo="" group-title="Hungary",HU: NICKELODEON
+http://lunar.pm:8080/Garys/Noother25/122126
+#EXTINF:-1 tvg-id="" tvg-name="HU: OZONE NETWORK" tvg-logo="" group-title="Hungary",HU: OZONE NETWORK
+http://lunar.pm:8080/Garys/Noother25/122127
+#EXTINF:-1 tvg-id="" tvg-name="HU: PARAMOUNT" tvg-logo="http://landiptv.vip:2095/images/HjwEu7iTOqkLhxl1ITLIBYYoz5rUiqAqABRCIpxhBt8x2nhyO4ZCvdpL_EZ_4vk1GgulcRz9RbbC9Gt4IVbi-g.png" group-title="Hungary",HU: PARAMOUNT
+http://lunar.pm:8080/Garys/Noother25/122128
+#EXTINF:-1 tvg-id="" tvg-name="HU: PRIME" tvg-logo="" group-title="Hungary",HU: PRIME
+http://lunar.pm:8080/Garys/Noother25/122129
+#EXTINF:-1 tvg-id="" tvg-name="HU: RTL GOLD" tvg-logo="" group-title="Hungary",HU: RTL GOLD
+http://lunar.pm:8080/Garys/Noother25/122130
+#EXTINF:-1 tvg-id="" tvg-name="HU: RTL II" tvg-logo="" group-title="Hungary",HU: RTL II
+http://lunar.pm:8080/Garys/Noother25/122131
+#EXTINF:-1 tvg-id="" tvg-name="HU: RTL KLUB" tvg-logo="" group-title="Hungary",HU: RTL KLUB
+http://lunar.pm:8080/Garys/Noother25/122132
+#EXTINF:-1 tvg-id="" tvg-name="HU: RTL SPIKE" tvg-logo="" group-title="Hungary",HU: RTL SPIKE
+http://lunar.pm:8080/Garys/Noother25/122133
+#EXTINF:-1 tvg-id="" tvg-name="HU: RTL+" tvg-logo="" group-title="Hungary",HU: RTL+
+http://lunar.pm:8080/Garys/Noother25/122134
+#EXTINF:-1 tvg-id="" tvg-name="HU: SOROZAT" tvg-logo="" group-title="Hungary",HU: SOROZAT
+http://lunar.pm:8080/Garys/Noother25/122135
+#EXTINF:-1 tvg-id="" tvg-name="HU: SOROZAT+" tvg-logo="" group-title="Hungary",HU: SOROZAT+
+http://lunar.pm:8080/Garys/Noother25/122136
+#EXTINF:-1 tvg-id="" tvg-name="HU: SPEKTRUM" tvg-logo="" group-title="Hungary",HU: SPEKTRUM
+http://lunar.pm:8080/Garys/Noother25/122137
+#EXTINF:-1 tvg-id="" tvg-name="HU: SPILER 2" tvg-logo="" group-title="Hungary",HU: SPILER 2
+http://lunar.pm:8080/Garys/Noother25/122138
+#EXTINF:-1 tvg-id="" tvg-name="HU: SPILER TV" tvg-logo="" group-title="Hungary",HU: SPILER TV
+http://lunar.pm:8080/Garys/Noother25/122139
+#EXTINF:-1 tvg-id="" tvg-name="HU: SPORT 1" tvg-logo="" group-title="Hungary",HU: SPORT 1
+http://lunar.pm:8080/Garys/Noother25/122140
+#EXTINF:-1 tvg-id="" tvg-name="HU: SPORT 2" tvg-logo="" group-title="Hungary",HU: SPORT 2
+http://lunar.pm:8080/Garys/Noother25/122141
+#EXTINF:-1 tvg-id="" tvg-name="HU: STORY 4" tvg-logo="" group-title="Hungary",HU: STORY 4
+http://lunar.pm:8080/Garys/Noother25/122142
+#EXTINF:-1 tvg-id="" tvg-name="HU: SUPER TV 2" tvg-logo="" group-title="Hungary",HU: SUPER TV 2
+http://lunar.pm:8080/Garys/Noother25/122143
+#EXTINF:-1 tvg-id="" tvg-name="HU: THE FISHING & HUNTING" tvg-logo="" group-title="Hungary",HU: THE FISHING & HUNTING
+http://lunar.pm:8080/Garys/Noother25/122144
+#EXTINF:-1 tvg-id="" tvg-name="HU: TLC" tvg-logo="" group-title="Hungary",HU: TLC
+http://lunar.pm:8080/Garys/Noother25/122145
+#EXTINF:-1 tvg-id="" tvg-name="HU: TRAVEL CHANNEL" tvg-logo="" group-title="Hungary",HU: TRAVEL CHANNEL
+http://lunar.pm:8080/Garys/Noother25/122146
+#EXTINF:-1 tvg-id="" tvg-name="HU: TV PAPRIKA" tvg-logo="" group-title="Hungary",HU: TV PAPRIKA
+http://lunar.pm:8080/Garys/Noother25/122147
+#EXTINF:-1 tvg-id="" tvg-name="HU: TV2" tvg-logo="" group-title="Hungary",HU: TV2
+http://lunar.pm:8080/Garys/Noother25/122148
+#EXTINF:-1 tvg-id="" tvg-name="HU: TV2 KIDS" tvg-logo="" group-title="Hungary",HU: TV2 KIDS
+http://lunar.pm:8080/Garys/Noother25/122149
+#EXTINF:-1 tvg-id="" tvg-name="HU: TV2 SEF" tvg-logo="" group-title="Hungary",HU: TV2 SEF
+http://lunar.pm:8080/Garys/Noother25/122150
+#EXTINF:-1 tvg-id="" tvg-name="HU: VIASAT 3" tvg-logo="" group-title="Hungary",HU: VIASAT 3
+http://lunar.pm:8080/Garys/Noother25/122151
+#EXTINF:-1 tvg-id="" tvg-name="HU: VIASAT 6" tvg-logo="" group-title="Hungary",HU: VIASAT 6
+http://lunar.pm:8080/Garys/Noother25/122152
+#EXTINF:-1 tvg-id="" tvg-name="HU: VIASAT EXPLORE" tvg-logo="" group-title="Hungary",HU: VIASAT EXPLORE
+http://lunar.pm:8080/Garys/Noother25/122153
+#EXTINF:-1 tvg-id="" tvg-name="HU: VIASAT HISTORY" tvg-logo="" group-title="Hungary",HU: VIASAT HISTORY
+http://lunar.pm:8080/Garys/Noother25/122154
+#EXTINF:-1 tvg-id="" tvg-name="HU: VIASAT NATURE" tvg-logo="" group-title="Hungary",HU: VIASAT NATURE
+http://lunar.pm:8080/Garys/Noother25/122155
+#EXTINF:-1 tvg-id="" tvg-name="HU: Music Channel" tvg-logo="" group-title="Hungary",HU: Music Channel
+http://lunar.pm:8080/Garys/Noother25/122156
+#EXTINF:-1 tvg-id="" tvg-name="HU: Boomerang" tvg-logo="" group-title="Hungary",HU: Boomerang
+http://lunar.pm:8080/Garys/Noother25/122157
+#EXTINF:-1 tvg-id="" tvg-name="HU: C8" tvg-logo="" group-title="Hungary",HU: C8
+http://lunar.pm:8080/Garys/Noother25/122158
+
+
 #EXTINF:0,Balaton TV
 #EXTGRP:unsorted
 https://stream.iptvservice.eu/hls/balatontv.m3u8
