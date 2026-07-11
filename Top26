@@ -410,16 +410,7 @@ http://213.163.13.122:1559/udp/239.1.10.54:2000
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="HU: Sport 1"
-group-title="Hungary"
- tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/6653879ce8d30b2712fcf545611808a2.png" group-title="Hungary ? Sports",HU: Sport 1
-http://iptvtree.net:8080/F25660/4184162c/14987
-#EXTINF:-1 tvg-id="" tvg-name="HU: TV 2" group-title="Hungary"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/90c43dc417ef95fec491b052ddf2c4ef.png" group-title="Hungary ? Movie",HU: TV 2
-http://iptvtree.net:8080/F25660/4184162c/14990
-#EXTINF:-1 tvg-id="" tvg-name="HU: Duna TV"group-title="Hungary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/8a7e4c157f49069a8a79c269c47b189f.png" group-title="Hungary ? LifeStyle",HU: Duna TV
-http://iptvtree.net:8080/F25660/4184162c/14997
-#EXTINF:-1 tvg-id="" tvg-name="HU: RTL Harom" group-title="Hungary"tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-06/15mJbZXyQ6PFBt2JGpD7w3FFCyRhVmfQBi.png" group-title="Hungary ? LifeStyle",HU: RTL Harom
-http://iptvtree.net:8080/F25660/4184162c/47737
+
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE:  AXN ᶠᴴᴰ" tvg-logo="https://abcjelly.uk/picons/de.png" group-title="DE | GERMANY",DE:  AXN ᶠᴴᴰ
 http://zingtv.live:8880/ramesh28/CzMv7tzZk7/3857658
