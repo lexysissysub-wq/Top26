@@ -36,9 +36,7 @@ https://cloudfront41.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u
 #EXTINF:0,XVTV
 #EXTGRP:unsorted
 https://cloudfront44.lexanetwork.com:1344/relay01/HDE051.sdp/playlist.m3u8
-#EXTINF:0,SPORT 1 
-#EXTGRP:MAGYAR
-http://195.189.60.31:8003/play/a0f2/index.m3u8
+
 #EXTINF:0,SPORT 2
 #EXTGRP:MAGYAR
 http://213.163.13.122:1559/udp/239.1.10.167:2000
