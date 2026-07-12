@@ -402,6 +402,110 @@ http://213.163.13.122:1559/udp/239.1.10.51:2000
 http://213.163.13.122:1559/udp/239.1.10.54:2000
 
 
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="AT: krone.tv | RAW" tvg-logo="http://lore.repmc.top:80/images/cKi9WaYee7xuz4W7P70aYMHianRPBof0_JrgCC_SJzHdX72Mh9MjTkymrrthm88b3J5PJvFxRAOJXe3D4fOy8bMQ4pthSUrOIoIJ5IN7B-azKb0YLDv54xgbze1XoFfrnxSCwIgC_vG10HZX-TguAh3cYjNaRY_AB9t1EnLqn4VYHup2MkC2G8Uwp4I8XW6P.png" group-title="Austria",AT: krone.tv | RAW
+http://kosamo.xyz:8080/live/661831/edtUBEr/117887.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AT: Melodie TV | RAW" tvg-logo="http://lore.repmc.top:80/images/cKi9WaYee7xuz4W7P70aYMHianRPBof0_JrgCC_SJzHdX72Mh9MjTkymrrthm88b3J5PJvFxRAOJXe3D4fOy8bMQ4pthSUrOIoIJ5IN7B-azKb0YLDv54xgbze1XoFfrnxSCwIgC_vG10HZX-TguAopQlvyn_SwoIMswZvCvE4ayfn02yMI2XZFW1QKfGyAU.png" group-title="Austria",AT: Melodie TV | RAW
+http://kosamo.xyz:8080/live/661831/edtUBEr/117888.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AT: Hitradio OE3 | RAW" tvg-logo="http://lore.repmc.top:80/images/cKi9WaYee7xuz4W7P70aYMHianRPBof0_JrgCC_SJzHdX72Mh9MjTkymrrthm88b3J5PJvFxRAOJXe3D4fOy8bMQ4pthSUrOIoIJ5IN7B-azKb0YLDv54xgbze1XoFfrnxSCwIgC_vG10HZX-TguAmD3dVMwGO_lDhbR7UQlT56ZR2wjDqkeHAaf0QzM09GM.png" group-title="Austria",AT: Hitradio OE3 | RAW
+http://kosamo.xyz:8080/live/661831/edtUBEr/117889.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AT: ATV" tvg-logo="https://tv-at-prod.yo-digital.com/prod/images/logos/445/250/51c2d8cf341fcfc4c9a4afb60a11e822.88733.PNG" group-title="Austria",AT: ATV
+http://kosamo.xyz:8080/live/661831/edtUBEr/117890.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AT: ATV2" tvg-logo="https://tv-at-prod.yo-digital.com/prod/images/logos/445/250/b0613aff085d3aeec3feca8a49f04b52.101672.PNG" group-title="Austria",AT: ATV2
+http://kosamo.xyz:8080/live/661831/edtUBEr/117891.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AT: ORF 1" tvg-logo="" group-title="Austria",AT: ORF 1
+http://kosamo.xyz:8080/live/661831/edtUBEr/117892.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AT: ORF 2 Wien" tvg-logo="" group-title="Austria",AT: ORF 2 Wien
+http://kosamo.xyz:8080/live/661831/edtUBEr/117893.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AT: ORF 2 Kärnten" tvg-logo="" group-title="Austria",AT: ORF 2 Kärnten
+http://kosamo.xyz:8080/live/661831/edtUBEr/117894.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AT: ORF 2 Tirol" tvg-logo="" group-title="Austria",AT: ORF 2 Tirol
+http://kosamo.xyz:8080/live/661831/edtUBEr/117895.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AT: ORF 2 Salzburg" tvg-logo="" group-title="Austria",AT: ORF 2 Salzburg
+http://kosamo.xyz:8080/live/661831/edtUBEr/117896.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AT: ORF 2 Vorarlberg" tvg-logo="" group-title="Austria",AT: ORF 2 Vorarlberg
+http://kosamo.xyz:8080/live/661831/edtUBEr/117897.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AT: ORF 2 Steiermark" tvg-logo="" group-title="Austria",AT: ORF 2 Steiermark
+http://kosamo.xyz:8080/live/661831/edtUBEr/117898.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AT: ORF 2 Burgenland" tvg-logo="" group-title="Austria",AT: ORF 2 Burgenland
+http://kosamo.xyz:8080/live/661831/edtUBEr/117899.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AT: ORF 2 Oberösterreich" tvg-logo="" group-title="Austria",AT: ORF 2 Oberösterreich
+http://kosamo.xyz:8080/live/661831/edtUBEr/117900.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AT: ORF 2 Niederösterreich" tvg-logo="" group-title="Austria",AT: ORF 2 Niederösterreich
+http://kosamo.xyz:8080/live/661831/edtUBEr/117901.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AT: ORF 2 EUROPE" tvg-logo="" group-title="Austria",AT: ORF 2 EUROPE
+http://kosamo.xyz:8080/live/661831/edtUBEr/117902.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AT: ORF III" tvg-logo="" group-title="Austria",AT: ORF III
+http://kosamo.xyz:8080/live/661831/edtUBEr/117903.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AT: R9" tvg-logo="" group-title="Austria",AT: R9
+http://kosamo.xyz:8080/live/661831/edtUBEr/117904.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AT: PULS 4" tvg-logo="" group-title="Austria",AT: PULS 4
+http://kosamo.xyz:8080/live/661831/edtUBEr/117905.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AT: HSE Extra" tvg-logo="http://lore.repmc.top:80/images/cKi9WaYee7xuz4W7P70aYMHianRPBof0_JrgCC_SJzHdX72Mh9MjTkymrrthm88b3J5PJvFxRAOJXe3D4fOy8bMQ4pthSUrOIoIJ5IN7B-azKb0YLDv54xgbze1XoFfrnxSCwIgC_vG10HZX-TguAs16h2rSzgsdUhMNjwAJAAqGvjPqc3q1QLmj604zI-S8.png" group-title="Austria",AT: HSE Extra
+http://kosamo.xyz:8080/live/661831/edtUBEr/117883.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AT: HSE Trend" tvg-logo="http://lore.repmc.top:80/images/cKi9WaYee7xuz4W7P70aYMHianRPBof0_JrgCC_SJzHdX72Mh9MjTkymrrthm88b3J5PJvFxRAOJXe3D4fOy8bMQ4pthSUrOIoIJ5IN7B-azKb0YLDv54xgbze1XoFfrnxSCwIgC_vG10HZX-TguAuyglu3Xn_faBqZlfW05QeZQn5mOwx0wLMShQk_VbfUV.png" group-title="Austria",AT: HSE Trend
+http://kosamo.xyz:8080/live/661831/edtUBEr/117884.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AT: QVC 2" tvg-logo="http://lore.repmc.top:80/images/cKi9WaYee7xuz4W7P70aYMHianRPBof0_JrgCC_SJzHdX72Mh9MjTkymrrthm88b3J5PJvFxRAOJXe3D4fOy8bMQ4pthSUrOIoIJ5IN7B-azKb0YLDv54xgbze1XoFfrnxSCwIgC_vG10HZX-TguAvo0ShsoJNv7Su7rBZJwCOw.png" group-title="Austria",AT: QVC 2
+http://kosamo.xyz:8080/live/661831/edtUBEr/117885.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AT: QVC Style" tvg-logo="http://lore.repmc.top:80/images/cKi9WaYee7xuz4W7P70aYMHianRPBof0_JrgCC_SJzHdX72Mh9MjTkymrrthm88b3J5PJvFxRAOJXe3D4fOy8bMQ4pthSUrOIoIJ5IN7B-azKb0YLDv54xgbze1XoFfrnxSCwIgC_vG10HZX-TguArotR16WnnlWeMn_kZUGLkGllB0tgviX0TTesrDEgnbk.png" group-title="Austria",AT: QVC Style
+http://kosamo.xyz:8080/live/661831/edtUBEr/117886.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AT: PULS24" tvg-logo="" group-title="Austria",AT: PULS24
+http://kosamo.xyz:8080/live/661831/edtUBEr/117906.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AT: oe24.TV" tvg-logo="" group-title="Austria",AT: oe24.TV
+http://kosamo.xyz:8080/live/661831/edtUBEr/117907.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AT: W24" tvg-logo="" group-title="Austria",AT: W24
+http://kosamo.xyz:8080/live/661831/edtUBEr/117909.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AT: Servus TV" tvg-logo="" group-title="Austria",AT: Servus TV
+http://kosamo.xyz:8080/live/661831/edtUBEr/117908.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AT: Okto" tvg-logo="" group-title="Austria",AT: Okto
+http://kosamo.xyz:8080/live/661831/edtUBEr/117911.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AT: Kurier TV" tvg-logo="" group-title="Austria",AT: Kurier TV
+http://kosamo.xyz:8080/live/661831/edtUBEr/117910.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AT: KT.1" tvg-logo="" group-title="Austria",AT: KT.1
+http://kosamo.xyz:8080/live/661831/edtUBEr/117912.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AT: K-TV" tvg-logo="" group-title="Austria",AT: K-TV
+http://kosamo.xyz:8080/live/661831/edtUBEr/117913.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AT: WNTV" tvg-logo="" group-title="Austria",AT: WNTV
+http://kosamo.xyz:8080/live/661831/edtUBEr/117914.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AT: Tirol TV" tvg-logo="" group-title="Austria",AT: Tirol TV
+http://kosamo.xyz:8080/live/661831/edtUBEr/117915.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AT: Ländle TV" tvg-logo="" group-title="Austria",AT: Ländle TV
+http://kosamo.xyz:8080/live/661831/edtUBEr/117916.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AT: ARCADIA World" tvg-logo="" group-title="Austria",AT: ARCADIA World
+http://kosamo.xyz:8080/live/661831/edtUBEr/117917.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AT:  Laola1.TV | RAW" tvg-logo="" group-title="Austria",AT:  Laola1.TV | RAW
+http://kosamo.xyz:8080/live/661831/edtUBEr/117918.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AT:  K19 | RAW" tvg-logo="" group-title="Austria",AT:  K19 | RAW
+http://kosamo.xyz:8080/live/661831/edtUBEr/117919.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AT:  Streamster.tv | RAW" tvg-logo="" group-title="Austria",AT:  Streamster.tv | RAW
+http://kosamo.xyz:8080/live/661831/edtUBEr/117920.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AT: Sky Sport Austria 1 | RAW" tvg-logo="http://www.tmsimg.com/assets/s111209_ll_h3_aa.png" group-title="Austria Sport",AT: Sky Sport Austria 1 | RAW
+http://kosamo.xyz:8080/live/661831/edtUBEr/117921.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AT: Sky Sport Austria 2 | RAW" tvg-logo="http://www.tmsimg.com/assets/s111209_ll_h3_aa.png" group-title="Austria Sport",AT: Sky Sport Austria 2 | RAW
+http://kosamo.xyz:8080/live/661831/edtUBEr/117922.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AT: Sky Sport Austria 3 | RAW" tvg-logo="http://www.tmsimg.com/assets/s111210_ll_h3_aa.png" group-title="Austria Sport",AT: Sky Sport Austria 3 | RAW
+http://kosamo.xyz:8080/live/661831/edtUBEr/117923.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AT: Sky Sport Austria 4 | RAW" tvg-logo="http://www.tmsimg.com/assets/s111211_ll_h3_aa.png" group-title="Austria Sport",AT: Sky Sport Austria 4 | RAW
+http://kosamo.xyz:8080/live/661831/edtUBEr/117924.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AT: Sky Sport Austria 5 | RAW" tvg-logo="http://www.tmsimg.com/assets/s111209_ll_h3_aa.png" group-title="Austria Sport",AT: Sky Sport Austria 5 | RAW
+http://kosamo.xyz:8080/live/661831/edtUBEr/117925.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AT: Sky Sport Austria 6 | RAW" tvg-logo="http://www.tmsimg.com/assets/s111209_ll_h3_aa.png" group-title="Austria Sport",AT: Sky Sport Austria 6 | RAW
+http://kosamo.xyz:8080/live/661831/edtUBEr/117926.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AT: Sky Sport Austria 7 | RAW" tvg-logo="http://www.tmsimg.com/assets/s111209_ll_h3_aa.png" group-title="Austria Sport",AT: Sky Sport Austria 7 | RAW
+http://kosamo.xyz:8080/live/661831/edtUBEr/117927.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AT: Sky Sport Austria 8 | RAW" tvg-logo="http://www.tmsimg.com/assets/s111209_ll_h3_aa.png" group-title="Austria Sport",AT: Sky Sport Austria 8 | RAW
+http://kosamo.xyz:8080/live/661831/edtUBEr/117928.m3u8
+
+
+
+
+
+
+
+
+
+
+
 
 
 
