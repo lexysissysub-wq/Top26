@@ -424,12 +424,7 @@ https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
 #EXTINF:0,WDR HD
 #EXTGRP:NÉMET
 https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8
-#EXTINF:0,DELUXE DANCE
-#EXTGRP:NÉMET
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
-#EXTINF:0,BBC TWO
-#EXTGRP:ANGLIA
-http://37c18028.akadatel.com/iptv/T6XNCP6L7LLKPD/19177/index.m3u8
+
 #EXTINF:0,KRONEHIT TV
 #EXTGRP:AUSZTRIA
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
@@ -519,9 +514,7 @@ https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b6
 #EXTINF:0,AZTECA INT
 #EXTGRP:MEXICO
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:0,MTV3
-#EXTGRP:Finn
-https://live-fi.tvkaista.net/mtv3/live.m3u8?src=freetv
+
 #EXTINF:0,Nelonen
 #EXTGRP:Finn
 https://live-fi.tvkaista.net/nelonen/live.m3u8?src=freetv
@@ -558,9 +551,7 @@ https://onnitv.digitacdn.net/live/ott/onnitv/playlist.m3u8?organizationId=834594
 #EXTINF:0,Xiaoshan
 #EXTGRP:Kína
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
-#EXTINF:0,CCTV1
-#EXTGRP:Kína
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+
 #EXTINF:0,??4K  SZUCSOU 4K
 #EXTGRP:Kína
 https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
@@ -773,9 +764,7 @@ http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/26296
 #EXTINF:0,TV4 Sport Live 4 HD
 #EXTGRP:unsorted
 http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/167
-#EXTINF:0,TV4 Sport Live 4 HD | raw
-#EXTGRP:unsorted
-http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/118
+
 #EXTINF:0,TV4 Tennis HD
 #EXTGRP:unsorted
 http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/168
@@ -783,22 +772,7 @@ http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/168
 #EXTGRP:unsorted
 http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/119
 
-#EXTINF:0,V sport football
-#EXTGRP:unsorted
-http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/106
-#EXTINF:0,V sport football HD
-#EXTGRP:unsorted
-http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/107
-#EXTINF:0,V sport football HD | raw
-#EXTGRP:unsorted
-http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/112439
 
-#EXTINF:0,V sport vinter HD
-#EXTGRP:unsorted
-http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/110
-#EXTINF:0,V sport vinter HD | raw
-#EXTGRP:unsorted
-http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/112440
 #EXTINF:0,V sport golf
 #EXTGRP:unsorted
 http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/83
@@ -817,12 +791,7 @@ http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/112442
 #EXTINF:0,V sport premium
 #EXTGRP:unsorted
 http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/174
-#EXTINF:0,V sport premium HD
-#EXTGRP:unsorted
-http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/105
-#EXTINF:0,V sport premium HD | raw
-#EXTGRP:unsorted
-http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/112443
+
 #EXTINF:0,V sport 1
 #EXTGRP:unsorted
 http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/172
@@ -830,17 +799,7 @@ http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/172
 #EXTGRP:unsorted
 http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/173
 #EXTINF:0,V sport 1 HD | raw
-#EXTGRP:unsorted
-http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/10000
-#EXTINF:0,V sport extra
-#EXTGRP:unsorted
-http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/108
-#EXTINF:0,V sport extra HD
-#EXTGRP:unsorted
-http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/177
-#EXTINF:0,V sport extra HD | raw
-#EXTGRP:unsorted
-http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/112444
+
 #EXTINF:0,TV4 Play Direkte 1 HD
 #EXTGRP:unsorted
 http://fomo.re:80/48rwR1XU4aADToYc/KhFcZBamcPosUfqR/190
