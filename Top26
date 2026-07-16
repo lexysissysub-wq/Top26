@@ -5386,6 +5386,398 @@ http://176.118.197.125/Match/index.m3u8
 #EXTINF:-1 group-title="Internet42 LLC", KHL
 http://176.118.197.101/KHL/index.m3u8
 
+#EXTM3U
+#EXTINF:-1 tvg-id="italia1.it" tvg-name="IT: VIP ITALIA 1 FHD" tvg-logo="http://51.158.145.100/picons/logos/italia1hd.png" group-title="IT VIP ITALIA",IT: VIP ITALIA 1 FHD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379072
+#EXTINF:-1 tvg-id="italia1.it" tvg-name="IT: VIP 27 TWENTYSEVEN HD" tvg-logo="" group-title="IT VIP ITALIA",IT: VIP 27 TWENTYSEVEN HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379071
+#EXTINF:-1 tvg-id="raiuno.it" tvg-name="IT: VIP RAI 1 FHD" tvg-logo="http://51.158.145.100/picons/logos/rai1hd.png" group-title="IT VIP ITALIA",IT: VIP RAI 1 FHD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379044
+#EXTINF:-1 tvg-id="raiuno.it" tvg-name="IT: VIP RAI 1 HD" tvg-logo="http://51.158.145.100/picons/logos/rai1hd.png" group-title="IT VIP ITALIA",IT: VIP RAI 1 HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379085
+#EXTINF:-1 tvg-id="raidue.it" tvg-name="IT: VIP RAI 2 FHD" tvg-logo="http://51.158.145.100/picons/logos/rai2hd.png" group-title="IT VIP ITALIA",IT: VIP RAI 2 FHD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379084
+#EXTINF:-1 tvg-id="raidue.it" tvg-name="IT: VIP TV 8 FHD" tvg-logo="" group-title="IT VIP ITALIA",IT: VIP TV 8 FHD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379083
+#EXTINF:-1 tvg-id="raitre.it" tvg-name="IT: VIP RAI 3 FHD" tvg-logo="http://51.158.145.100/picons/logos/rai3hd.png" group-title="IT VIP ITALIA",IT: VIP RAI 3 FHD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379082
+#EXTINF:-1 tvg-id="raitre.it" tvg-name="IT: VIP HGTV FHD" tvg-logo="" group-title="IT VIP ITALIA",IT: VIP HGTV FHD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379081
+#EXTINF:-1 tvg-id="rai4.it" tvg-name="IT: VIP REALTIME +1 HD" tvg-logo="" group-title="IT VIP ITALIA",IT: VIP REALTIME +1 HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379080
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP RAI 4 HD" tvg-logo="http://51.158.145.100/picons/logos/rai4hd.png" group-title="IT VIP ITALIA",IT: VIP RAI 4 HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379079
+#EXTINF:-1 tvg-id="rai5.it" tvg-name="IT: VIP WARNER TV HD" tvg-logo="" group-title="IT VIP ITALIA",IT: VIP WARNER TV HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379078
+#EXTINF:-1 tvg-id="rai5.it" tvg-name="IT: VIP RAI 5 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/ITALY/RAI5HD.png" group-title="IT VIP ITALIA",IT: VIP RAI 5 HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379077
+#EXTINF:-1 tvg-id="raimovie.it" tvg-name="IT: VIP MEDIASET EXTRA FHD" tvg-logo="" group-title="IT VIP ITALIA",IT: VIP MEDIASET EXTRA FHD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379064
+#EXTINF:-1 tvg-id="raimovie.it" tvg-name="IT: VIP RAI MOVIE HD" tvg-logo="http://51.158.145.100/picons/logos/raimoviehd.png" group-title="IT VIP ITALIA",IT: VIP RAI MOVIE HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379063
+#EXTINF:-1 tvg-id="retequattro.it" tvg-name="IT: VIP RETE 4 FHD" tvg-logo="http://51.158.145.100/picons/logos/rete4hd.png" group-title="IT VIP ITALIA",IT: VIP RETE 4 FHD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379076
+#EXTINF:-1 tvg-id="retequattro.it" tvg-name="IT: VIP ITALIA 2 MEDIASET FHD" tvg-logo="" group-title="IT VIP ITALIA",IT: VIP ITALIA 2 MEDIASET FHD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379075
+#EXTINF:-1 tvg-id="canale5.it" tvg-name="IT: VIP CANALE 5 FHD" tvg-logo="http://51.158.145.100/picons/logos/canale5hd.png" group-title="IT VIP ITALIA",IT: VIP CANALE 5 FHD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379074
+#EXTINF:-1 tvg-id="canale5.it" tvg-name="IT: VIP LA 7 D HD" tvg-logo="" group-title="IT VIP ITALIA",IT: VIP LA 7 D HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379073
+#EXTINF:-1 tvg-id="italia2.it" tvg-name="IT: VIP MEDIASET ITALIA DUE" tvg-logo="http://51.158.145.100/picons/logos/italia2.png" group-title="IT VIP ITALIA",IT: VIP MEDIASET ITALIA DUE
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379321
+#EXTINF:-1 tvg-id="cine34.it" tvg-name="IT: VIP CINE 34 HD" tvg-logo="http://51.158.145.100/picons/logos/cine34.png" group-title="IT VIP ITALIA",IT: VIP CINE 34 HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379319
+#EXTINF:-1 tvg-id="topcrime.it" tvg-name="IT: VIP TOP CRIME FHD" tvg-logo="http://51.158.145.100/picons/logos/topcrime.png" group-title="IT VIP ITALIA",IT: VIP TOP CRIME FHD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379317
+#EXTINF:-1 tvg-id="comedycentral.it" tvg-name="IT: VIP COMEDY CENTRAL FHD" tvg-logo="http://51.158.145.100/picons/logos/comedycentral.png" group-title="IT VIP ITALIA",IT: VIP COMEDY CENTRAL FHD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379316
+#EXTINF:-1 tvg-id="iris.it" tvg-name="IT: VIP IRIS HD" tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/logos_a-z/i/iris.png" group-title="IT VIP ITALIA",IT: VIP IRIS HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379315
+#EXTINF:-1 tvg-id="raipremium.it" tvg-name="IT: VIP RAI PREMIUM HD" tvg-logo="http://51.158.145.100/picons/logos/raipremiumhd.png" group-title="IT VIP ITALIA",IT: VIP RAI PREMIUM HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379065
+#EXTINF:-1 tvg-id="20mediaset.it" tvg-name="IT: VIP 20 MEDIASET FHD" tvg-logo="http://51.158.145.100/picons/logos/20mediasethd.png" group-title="IT VIP ITALIA",IT: VIP 20 MEDIASET FHD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379062
+#EXTINF:-1 tvg-id="20mediaset.it" tvg-name="IT: VIP MEDIASET CINE34 HD" tvg-logo="" group-title="IT VIP ITALIA",IT: VIP MEDIASET CINE34 HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379061
+#EXTINF:-1 tvg-id="cielo.it" tvg-name="IT: VIP CIELO FHD" tvg-logo="http://51.158.145.100/picons/logos/cielohd.png" group-title="IT VIP ITALIA",IT: VIP CIELO FHD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379060
+#EXTINF:-1 tvg-id="cielo.it" tvg-name="IT: VIP FOCUS HD" tvg-logo="" group-title="IT VIP ITALIA",IT: VIP FOCUS HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379059
+#EXTINF:-1 tvg-id="dmax.it" tvg-name="IT: VIP DMAX HD" tvg-logo="http://51.158.145.100/picons/logos/dmaxhd.png" group-title="IT VIP ITALIA",IT: VIP DMAX HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379058
+#EXTINF:-1 tvg-id="giallo.it" tvg-name="IT: VIP GIALLO FHD" tvg-logo="http://51.158.145.100/picons/logos/giallo.png" group-title="IT VIP ITALIA",IT: VIP GIALLO FHD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379057
+#EXTINF:-1 tvg-id="la5.it" tvg-name="IT: VIP LA 5 FHD" tvg-logo="http://51.158.145.100/picons/logos/la5.png" group-title="IT VIP ITALIA",IT: VIP LA 5 FHD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379056
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP LA 7 HD" tvg-logo="http://51.158.145.100/picons/logos/la7hd.png" group-title="IT VIP ITALIA",IT: VIP LA 7 HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379054
+#EXTINF:-1 tvg-id="nove.it" tvg-name="IT: VIP NOVE FHD" tvg-logo="http://51.158.145.100/picons/logos/NOVE-HD.jpg" group-title="IT VIP ITALIA",IT: VIP NOVE FHD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379052
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP REAL TIME FHD" tvg-logo="http://51.158.145.100/picons/logos/realtimehd.png" group-title="IT VIP ITALIA",IT: VIP REAL TIME FHD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379050
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP RSI LA 1 HD" tvg-logo="http://51.158.145.100/picons/logos/rsila1hd.png" group-title="IT VIP ITALIA",IT: VIP RSI LA 1 HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379049
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP RSI LA 2 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/ITALY/RSILA2HD.png" group-title="IT VIP ITALIA",IT: VIP RSI LA 2 HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379048
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP TV2000" tvg-logo="http://51.158.145.100/picons/logos/tv2000.png" group-title="IT VIP ITALIA",IT: VIP TV2000
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379047
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP TV8" tvg-logo="http://51.158.145.100/picons/logos/tv8.png" group-title="IT VIP ITALIA",IT: VIP TV8
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379046
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP ITALIAN FISHING" tvg-logo="http://sltv-icon.cms-s.com/logo/ITALY/italian_fishing_tv.png" group-title="IT VIP ITALIA",IT: VIP ITALIAN FISHING
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379521
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP CANALE 7" tvg-logo="http://sltv-icon.cms-s.com/logo/Italy/camale7.png" group-title="IT VIP ITALIA",IT: VIP CANALE 7
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/517949
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP ELITE TV BRESCIA" tvg-logo="http://sltv-icon.cms-s.com/logo/Italy/eliteTVBrescia.png" group-title="IT VIP ITALIA",IT: VIP ELITE TV BRESCIA
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/517948
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP ESPERIA TV" tvg-logo="http://sltv-icon.cms-s.com/logo/Italy/esperia.png" group-title="IT VIP ITALIA",IT: VIP ESPERIA TV
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/517947
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP ITALIA 3 TV" tvg-logo="http://sltv-icon.cms-s.com/logo/Italy/italia3.png" group-title="IT VIP ITALIA",IT: VIP ITALIA 3 TV
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/517946
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP PRIMA TV" tvg-logo="http://sltv-icon.cms-s.com/logo/Italy/primaTV.png" group-title="IT VIP ITALIA",IT: VIP PRIMA TV
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/517945
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP TELE PAVIA" tvg-logo="http://sltv-icon.cms-s.com/logo/Italy/telePavia.png" group-title="IT VIP ITALIA",IT: VIP TELE PAVIA
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/517944
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP TELE QUATTRO" tvg-logo="http://sltv-icon.cms-s.com/logo/Italy/teleQuattro.png" group-title="IT VIP ITALIA",IT: VIP TELE QUATTRO
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/517943
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP TELECHIARA" tvg-logo="http://sltv-icon.cms-s.com/logo/Italy/telechiara.png" group-title="IT VIP ITALIA",IT: VIP TELECHIARA
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/517942
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP TELERAMA" tvg-logo="http://sltv-icon.cms-s.com/logo/Italy/telerama.png" group-title="IT VIP ITALIA",IT: VIP TELERAMA
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/517941
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP TVA (VICENZA)" tvg-logo="http://sltv-icon.cms-s.com/logo/Italy/tvaVicenza.png" group-title="IT VIP ITALIA",IT: VIP TVA (VICENZA)
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/517938
+#EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="IT: VIP SKY CINEMA UNO HD" tvg-logo="http://sltv-icon.cms-s.com/logo/ITALY/skycinemauno.png" group-title="IT VIP CINEMA",IT: VIP SKY CINEMA UNO HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379164
+#EXTINF:-1 tvg-id="skycinemadue.it" tvg-name="IT: VIP SKY CINEMA UNO +24" tvg-logo="" group-title="IT VIP CINEMA",IT: VIP SKY CINEMA UNO +24
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379163
+#EXTINF:-1 tvg-id="skycinemadue.it" tvg-name="IT: VIP SKY CINEMA DUE HD" tvg-logo="http://sltv-icon.cms-s.com/logo/ITALY/skycinemadue.png" group-title="IT VIP CINEMA",IT: VIP SKY CINEMA DUE HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379162
+#EXTINF:-1 tvg-id="skycinemacollection.it" tvg-name="IT: VIP SKY CINEMA COLLECTION HD" tvg-logo="http://sltv-icon.cms-s.com/logo/ITALY/skycinemacollectionhd.png" group-title="IT VIP CINEMA",IT: VIP SKY CINEMA COLLECTION HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379160
+#EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="IT: VIP CINEMA FAMILY +1" tvg-logo="" group-title="IT VIP CINEMA",IT: VIP CINEMA FAMILY +1
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379159
+#EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="IT: VIP SKY CINEMA FAMILY HD" tvg-logo="http://sltv-icon.cms-s.com/logo/ITALY/skycinemafamily.png" group-title="IT VIP CINEMA",IT: VIP SKY CINEMA FAMILY HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379158
+#EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="IT: VIP SKY CINEMA ACTION HD" tvg-logo="http://sltv-icon.cms-s.com/logo/ITALY/skycinemaaction-wispelutri.png" group-title="IT VIP CINEMA",IT: VIP SKY CINEMA ACTION HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379156
+#EXTINF:-1 tvg-id="skycinemasuspense.it" tvg-name="IT: VIP CINEMA DUE +1 " tvg-logo="" group-title="IT VIP CINEMA",IT: VIP CINEMA DUE +1
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379155
+#EXTINF:-1 tvg-id="skycinemasuspense.it" tvg-name="IT: VIP SKY CINEMA SUSPENCE HD" tvg-logo="http://sltv-icon.cms-s.com/logo/ITALY/skycinemasuspense.png" group-title="IT VIP CINEMA",IT: VIP SKY CINEMA SUSPENCE HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379154
+#EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="IT: VIP SKY CINEMA DUE +24 " tvg-logo="" group-title="IT VIP CINEMA",IT: VIP SKY CINEMA DUE +24
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379153
+#EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="IT: VIP SKY CINEMA ROMANCE HD" tvg-logo="http://sltv-icon.cms-s.com/logo/ITALY/skycinemaromance.png" group-title="IT VIP CINEMA",IT: VIP SKY CINEMA ROMANCE HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379152
+#EXTINF:-1 tvg-id="skycinemadrama.it" tvg-name="IT: VIP CINEMA UNO + 1" tvg-logo="" group-title="IT VIP CINEMA",IT: VIP CINEMA UNO + 1
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379151
+#EXTINF:-1 tvg-id="skycinemadrama.it" tvg-name="IT: VIP SKY CINEMA DRAMA HD" tvg-logo="http://sltv-icon.cms-s.com/logo/ITALY/skycinemadrama.png" group-title="IT VIP CINEMA",IT: VIP SKY CINEMA DRAMA HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379150
+#EXTINF:-1 tvg-id="skycinemacomedy.it" tvg-name="IT: VIP SKY CINEMA UNO 4K" tvg-logo="http://sltv-icon.cms-s.com/logo/ITALY/skycinemacomedyita.png" group-title="IT VIP CINEMA",IT: VIP SKY CINEMA UNO 4K
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379149
+#EXTINF:-1 tvg-id="skycinemacomedy.it" tvg-name="IT: VIP SKY CINEMA COMEDY HD" tvg-logo="http://sltv-icon.cms-s.com/logo/ITALY/skycinemacomedyita.png" group-title="IT VIP CINEMA",IT: VIP SKY CINEMA COMEDY HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379148
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP SKY CRIME FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sky_Crime_DE_Logo_2021.svg/260px-Sky_Crime_DE_Logo_2021.svg.png" group-title="IT VIP CINEMA",IT: VIP SKY CRIME FHD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/540815
+#EXTINF:-1 tvg-id="skyserie.it" tvg-name="IT: VIP SKY SERIE HD" tvg-logo="http://sltv-icon.cms-s.com/logo/ITALY/Sky_Serie.png" group-title="IT VIP CINEMA",IT: VIP SKY SERIE HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/399339
+#EXTINF:-1 tvg-id="skyatlantic.it" tvg-name="IT: VIP RADIO FRECCIA TV HD" tvg-logo="http://51.158.145.100/picons/logos/skyatlanticplus1hd.png" group-title="IT VIP RAGAZZI - NOTIZIE - MISICA",IT: VIP RADIO FRECCIA TV HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379098
+#EXTINF:-1 tvg-id="boing.it" tvg-name="IT: VIP BOING" tvg-logo="http://51.158.145.100/picons/logos/boing.png" group-title="IT VIP RAGAZZI - NOTIZIE - MISICA",IT: VIP BOING
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379456
+#EXTINF:-1 tvg-id="super.it" tvg-name="IT: VIP SUPER" tvg-logo="http://51.158.145.100/picons/logos/super.png" group-title="IT VIP RAGAZZI - NOTIZIE - MISICA",IT: VIP SUPER
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379454
+#EXTINF:-1 tvg-id="k2.it" tvg-name="IT: VIP K2" tvg-logo="http://51.158.145.100/picons/logos/k2.png" group-title="IT VIP RAGAZZI - NOTIZIE - MISICA",IT: VIP K2
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379453
+#EXTINF:-1 tvg-id="frisbee.it" tvg-name="IT: VIP FRISBEE HD" tvg-logo="http://51.158.145.100/picons/logos/frisbee.png" group-title="IT VIP RAGAZZI - NOTIZIE - MISICA",IT: VIP FRISBEE HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379452
+#EXTINF:-1 tvg-id="cartoonnetwork.it" tvg-name="IT: VIP CARTOON NETWORK HD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/cartoon_network.png" group-title="IT VIP RAGAZZI - NOTIZIE - MISICA",IT: VIP CARTOON NETWORK HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379450
+#EXTINF:-1 tvg-id="boomerang.it" tvg-name="IT: VIP BOOMERANG" tvg-logo="http://51.158.145.100/picons/logos/boomerang.png" group-title="IT VIP RAGAZZI - NOTIZIE - MISICA",IT: VIP BOOMERANG
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379448
+#EXTINF:-1 tvg-id="nickelodeon.it" tvg-name="IT: VIP NICKELODEON HD" tvg-logo="http://51.158.145.100/picons/logos/nickelodeon.png" group-title="IT VIP RAGAZZI - NOTIZIE - MISICA",IT: VIP NICKELODEON HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379447
+#EXTINF:-1 tvg-id="nickjunior.it" tvg-name="IT: VIP NICKJR" tvg-logo="http://51.158.145.100/picons/logos/nickjr.png" group-title="IT VIP RAGAZZI - NOTIZIE - MISICA",IT: VIP NICKJR
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379446
+#EXTINF:-1 tvg-id="babytv.it" tvg-name="IT: VIP BABYTV" tvg-logo="http://51.158.145.100/picons/logos/babytv.png" group-title="IT VIP RAGAZZI - NOTIZIE - MISICA",IT: VIP BABYTV
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379445
+#EXTINF:-1 tvg-id="deajunior.it" tvg-name="IT: VIP DEAJUNIOR HD" tvg-logo="http://51.158.145.100/picons/logos/deajunior.png" group-title="IT VIP RAGAZZI - NOTIZIE - MISICA",IT: VIP DEAJUNIOR HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379444
+#EXTINF:-1 tvg-id="deakids.it" tvg-name="IT: VIP DEAKIDS HD" tvg-logo="http://51.158.145.100/picons/logos/deakids.png" group-title="IT VIP RAGAZZI - NOTIZIE - MISICA",IT: VIP DEAKIDS HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379443
+#EXTINF:-1 tvg-id="raigulp.it" tvg-name="IT: VIP RAI GULP FHD" tvg-logo="http://51.158.145.100/picons/logos/raigulphd.png" group-title="IT VIP RAGAZZI - NOTIZIE - MISICA",IT: VIP RAI GULP FHD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379442
+#EXTINF:-1 tvg-id="raiyoyo.it" tvg-name="IT: VIP RAI YOYO FHD" tvg-logo="http://51.158.145.100/picons/logos/raiyoyohd.png" group-title="IT VIP RAGAZZI - NOTIZIE - MISICA",IT: VIP RAI YOYO FHD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379441
+#EXTINF:-1 tvg-id="skytg24.it" tvg-name="IT: VIP SKY TG 24 HD" tvg-logo="http://51.158.145.100/picons/logos/mtvmusic.png" group-title="IT VIP RAGAZZI - NOTIZIE - MISICA",IT: VIP SKY TG 24 HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379439
+#EXTINF:-1 tvg-id="tgcom24.it" tvg-name="IT: VIP TGCOM24 HD" tvg-logo="http://51.158.145.100/picons/logos/tgcom24.png" group-title="IT VIP RAGAZZI - NOTIZIE - MISICA",IT: VIP TGCOM24 HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379438
+#EXTINF:-1 tvg-id="tgnorba24.it" tvg-name="IT: VIP TG NORBA 24" tvg-logo="http://51.158.145.100/picons/logos/tgnorba24.png" group-title="IT VIP RAGAZZI - NOTIZIE - MISICA",IT: VIP TG NORBA 24
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379437
+#EXTINF:-1 tvg-id="rainews.it" tvg-name="IT: VIP RAI NEWS 24 FHD" tvg-logo="http://51.158.145.100/picons/logos/rainews24hd.png" group-title="IT VIP RAGAZZI - NOTIZIE - MISICA",IT: VIP RAI NEWS 24 FHD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379436
+#EXTINF:-1 tvg-id="radioitalia.it" tvg-name="IT: VIP RADIOITALIATV HD" tvg-logo="http://51.158.145.100/picons/logos/radioitaliatvhd.png" group-title="IT VIP RAGAZZI - NOTIZIE - MISICA",IT: VIP RADIOITALIATV HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379432
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP RADIO ZETA RADIOVISIONE HD" tvg-logo="http://51.158.145.100/picons/logos/radiozeta.png" group-title="IT VIP RAGAZZI - NOTIZIE - MISICA",IT: VIP RADIO ZETA RADIOVISIONE HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379431
+#EXTINF:-1 tvg-id="rtl1025tv.it" tvg-name="IT: VIP RTL 102.5 TV" tvg-logo="http://51.158.145.100/picons/logos/rtl1025.png" group-title="IT VIP RAGAZZI - NOTIZIE - MISICA",IT: VIP RTL 102.5 TV
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379430
+#EXTINF:-1 tvg-id="eurosport.it" tvg-name="IT: VIP EUROSPORT 1 FHD" tvg-logo="http://sltv-icon.cms-s.com/logo/Italy/sport220/Eurosport_1.png" group-title="IT VIP SPORT",IT: VIP EUROSPORT 1 FHD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379236
+#EXTINF:-1 tvg-id="eurosport2.it" tvg-name="IT: VIP EUROSPORT 2 FHD" tvg-logo="http://sltv-icon.cms-s.com/logo/Italy/sport220/Eurosport_2.png" group-title="IT VIP SPORT",IT: VIP EUROSPORT 2 FHD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379235
+#EXTINF:-1 tvg-id="skysport24.it" tvg-name="IT: VIP PULSE LIVE  EVENT  CHANNEL" tvg-logo="" group-title="IT VIP SPORT",IT: VIP PULSE LIVE  EVENT  CHANNEL
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379262
+#EXTINF:-1 tvg-id="skysport24.it" tvg-name="IT: VIP SKY SPORT 24 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/Italy/sport220/Sky_Sport.png" group-title="IT VIP SPORT",IT: VIP SKY SPORT 24 HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379261
+#EXTINF:-1 tvg-id="skysportuno.it" tvg-name="IT: VIP SKY SPORT UNO FHD" tvg-logo="http://51.158.145.100/picons/logos/skysportuhd.png" group-title="IT VIP SPORT",IT: VIP SKY SPORT UNO FHD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379258
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP SKY SPORT UNO HD" tvg-logo="http://51.158.145.100/picons/logos/skysportuhd.png" group-title="IT VIP SPORT",IT: VIP SKY SPORT UNO HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379539
+#EXTINF:-1 tvg-id="skysportfootball.it" tvg-name="IT: VIP SKY SPORT MAX HD" tvg-logo="" group-title="IT VIP SPORT",IT: VIP SKY SPORT MAX HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379257
+#EXTINF:-1 tvg-id="skysportfootball.it" tvg-name="IT: VIP SKY SPORT FOOTBALL HD" tvg-logo="http://51.158.145.100/picons/logos/skysportfootballhd.png" group-title="IT VIP SPORT",IT: VIP SKY SPORT FOOTBALL HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379256
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP SKY SPORT ARENA HD" tvg-logo="http://sltv-icon.cms-s.com/logo/Italy/sport220/Sky_Sport_Arena.png" group-title="IT VIP SPORT",IT: VIP SKY SPORT ARENA HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/432547
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP SKY SPORT ARENA +1 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/Italy/sport220/Sky_Sport_Arena.png" group-title="IT VIP SPORT",IT: VIP SKY SPORT ARENA +1 HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/432546
+#EXTINF:-1 tvg-id="skysportnba.it" tvg-name="IT: VIP SKY SPORT NBA HD" tvg-logo="http://51.158.145.100/picons/logos/skysportnbahd.png" group-title="IT VIP SPORT",IT: VIP SKY SPORT NBA HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379251
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP SKY SPORT NBA +1 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/Italy/sport220/Sky_Sport_NBA.png" group-title="IT VIP SPORT",IT: VIP SKY SPORT NBA +1 HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/432545
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP SKY SPORT TENNIS HD" tvg-logo="http://sltv-icon.cms-s.com/logo/Italy/sport220/skySportTennis.png" group-title="IT VIP SPORT",IT: VIP SKY SPORT TENNIS HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/432544
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP SKY SPORT CALCIO A HD" tvg-logo="http://sltv-icon.cms-s.com/logo/Italy/sport220/skySportCalcio.png" group-title="IT VIP SPORT",IT: VIP SKY SPORT CALCIO A HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/432543
+#EXTINF:-1 tvg-id="skysportf1.it" tvg-name="IT: VIP SKY ACI SPORT TV FHD" tvg-logo="" group-title="IT VIP SPORT",IT: VIP SKY ACI SPORT TV FHD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379250
+#EXTINF:-1 tvg-id="skysportf1.it" tvg-name="IT: VIP SKY SPORT F1 HD" tvg-logo="http://51.158.145.100/picons/logos/skysportf1hd.png" group-title="IT VIP SPORT",IT: VIP SKY SPORT F1 HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379249
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP SI SPORT ITALIA LIVE 24 " tvg-logo="" group-title="IT VIP SPORT",IT: VIP SI SPORT ITALIA LIVE 24
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/517928
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP SKY SPORT GOLF FHD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/skySportGolf.png" group-title="IT VIP SPORT",IT: VIP SKY SPORT GOLF FHD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/517927
+#EXTINF:-1 tvg-id="" tvg-name="IT:  SKY CALCIO SERIE A HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-4-1.png" group-title="IT VIP SPORT",IT:  SKY CALCIO SERIE A HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/538113
+#EXTINF:-1 tvg-id="" tvg-name="IT:  DAZN 1 ITA  SERIE A  HD" tvg-logo="" group-title="IT VIP SPORT",IT:  DAZN 1 ITA  SERIE A  HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/538112
+#EXTINF:-1 tvg-id="" tvg-name="IT:  ZONA GOAL SERIE A HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-4-1.png" group-title="IT VIP SPORT",IT:  ZONA GOAL SERIE A HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/538111
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP SI HD PLUS" tvg-logo="" group-title="IT VIP SPORT",IT: VIP SI HD PLUS
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379231
+#EXTINF:-1 tvg-id="skysport251.it" tvg-name="IT: VIP SKY SPORT 251 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/Italy/sport220/Sky_Sport.png" group-title="IT VIP SPORT",IT: VIP SKY SPORT 251 HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379229
+#EXTINF:-1 tvg-id="skysport252.it" tvg-name="IT: VIP SKY SPORT 252 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/Italy/sport220/skySportCalcio.png" group-title="IT VIP SPORT",IT: VIP SKY SPORT 252 HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379227
+#EXTINF:-1 tvg-id="skysport253.it" tvg-name="IT: VIP SKY SPORT 253 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/Italy/sport220/Sky_Sport.png" group-title="IT VIP SPORT",IT: VIP SKY SPORT 253 HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379226
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP SKY CALCIO BAR A2 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/Italy/sport220/Sky_Sport.png" group-title="IT VIP SPORT",IT: VIP SKY CALCIO BAR A2 HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/517932
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP SKY SPORT 254 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/Italy/sport220/Sky_Sport.png" group-title="IT VIP SPORT",IT: VIP SKY SPORT 254 HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/517931
+#EXTINF:-1 tvg-id="skysport255.it" tvg-name="IT: VIP SKY SPORT 255 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/Italy/sport220/skySport.png" group-title="IT VIP SPORT",IT: VIP SKY SPORT 255 HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379222
+#EXTINF:-1 tvg-id="skysport256.it" tvg-name="IT: VIP SKY SPORT 256 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/Italy/sport220/Sky_Sport.png" group-title="IT VIP SPORT",IT: VIP SKY SPORT 256 HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379220
+#EXTINF:-1 tvg-id="skysport257.it" tvg-name="IT: VIP SKY SPORT 257 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/Italy/sport220/Sky_Sport.png" group-title="IT VIP SPORT",IT: VIP SKY SPORT 257 HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379218
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP SKY SPORT 258 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/Italy/sport220/Sky_Sport.png" group-title="IT VIP SPORT",IT: VIP SKY SPORT 258 HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/517930
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP SKY SPORT BAR UNO HD" tvg-logo="http://sltv-icon.cms-s.com/logo/ITALY/sky_sportBar.png" group-title="IT VIP SPORT",IT: VIP SKY SPORT BAR UNO HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379333
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP SI CALCIO" tvg-logo="" group-title="IT VIP SPORT",IT: VIP SI CALCIO
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379331
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP MOTORRACING TV" tvg-logo="" group-title="IT VIP SPORT",IT: VIP MOTORRACING TV
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/432554
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP SPORTITALIA SOLOCALCIO" tvg-logo="" group-title="IT VIP SPORT",IT: VIP SPORTITALIA SOLOCALCIO
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/432553
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP RAI SPORT  UNO  PLUS HD" tvg-logo="" group-title="IT VIP SPORT",IT: VIP RAI SPORT  UNO  PLUS HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379330
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP SI SPORT ITALIA PRIMAVERA" tvg-logo="" group-title="IT VIP SPORT",IT: VIP SI SPORT ITALIA PRIMAVERA
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379327
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP SKY CALCIO 252 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/Italy/sport220/skySportCalcio.png" group-title="IT VIP SPORT",IT: VIP SKY CALCIO 252 HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/432551
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP SKY CALCIO 253 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/Italy/sport220/skySportCalcio.png" group-title="IT VIP SPORT",IT: VIP SKY CALCIO 253 HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/432550
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP SKY CALCIO 254 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/Italy/sport220/skySportCalcio.png" group-title="IT VIP SPORT",IT: VIP SKY CALCIO 254 HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/432549
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP SKY CALCIO 255 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/Italy/sport220/skySportCalcio.png" group-title="IT VIP SPORT",IT: VIP SKY CALCIO 255 HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/432548
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP SKY SPORT 259" tvg-logo="http://sltv-icon.cms-s.com/logo/Italy/sport220/skySport.png" group-title="IT VIP SPORT",IT: VIP SKY SPORT 259
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/517929
+#EXTINF:-1 tvg-id="supertennis.it" tvg-name="IT: VIP SUPERTENNIS" tvg-logo="http://51.158.145.100/picons/logos/supertennishd.png" group-title="IT VIP SPORT",IT: VIP SUPERTENNIS
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379246
+#EXTINF:-1 tvg-id="classhorsetv.it" tvg-name="IT: VIP SKY HORSE TV FHD" tvg-logo="http://sltv-icon.cms-s.com/logo/ITALY/skyHorse.png" group-title="IT VIP SPORT",IT: VIP SKY HORSE TV FHD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379245
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP TOP CALCIO 24" tvg-logo="http://sltv-icon.cms-s.com/logo/Italy/sport220/topCalzio24.png" group-title="IT VIP SPORT",IT: VIP TOP CALCIO 24
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379243
+#EXTINF:-1 tvg-id="interchannel.it" tvg-name="IT: VIP INTER CHANNEL" tvg-logo="http://sltv-icon.cms-s.com/logo/Italy/sport220/Inter_TV.png" group-title="IT VIP SPORT",IT: VIP INTER CHANNEL
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379242
+#EXTINF:-1 tvg-id="laziostylechannel.it" tvg-name="IT: VIP LAZIO CHANNEL" tvg-logo="http://51.158.145.100/picons/logos/LAZIO-CHANNEL.png" group-title="IT VIP SPORT",IT: VIP LAZIO CHANNEL
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379241
+#EXTINF:-1 tvg-id="milantv.it" tvg-name="IT: VIP MILAN CHANNEL" tvg-logo="http://sltv-icon.cms-s.com/logo/Italy/milan.png" group-title="IT VIP SPORT",IT: VIP MILAN CHANNEL
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379240
+#EXTINF:-1 tvg-id="romatv.it" tvg-name="IT: VIP SKY SPORT MOTO GP" tvg-logo="" group-title="IT VIP SPORT",IT: VIP SKY SPORT MOTO GP
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379239
+#EXTINF:-1 tvg-id="raisport.it" tvg-name="IT: VIP RAI SPORT HD" tvg-logo="http://51.158.145.100/picons/logos/raisport.png" group-title="IT VIP SPORT",IT: VIP RAI SPORT HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379237
+#EXTINF:-1 tvg-id="italianfishingtv.it" tvg-name="IT: VIP FISHING TV" tvg-logo="http://51.158.145.100/picons/logos/fishingtv.png" group-title="IT VIP SPORT",IT: VIP FISHING TV
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379232
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP SERIE A RADIOTV LIVE" tvg-logo="" group-title="IT VIP SPORT",IT: VIP SERIE A RADIOTV LIVE
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379324
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP RED BULL TV FHD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/red-bull-tv.png" group-title="IT VIP SPORT",IT: VIP RED BULL TV FHD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/379323
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP INTER TV HD" tvg-logo="http://sltv-icon.cms-s.com/logo/Italy/sport220/Inter_TV.png" group-title="IT VIP SPORT",IT: VIP INTER TV HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/432542
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP TOP CALCIO 24 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/Italy/sport220/topCalzio24.png" group-title="IT VIP SPORT",IT: VIP TOP CALCIO 24 HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/432541
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP JUVENTUS CHANNEL HD" tvg-logo="http://sltv-icon.cms-s.com/logo/Italy/juventus.png" group-title="IT VIP SPORT",IT: VIP JUVENTUS CHANNEL HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/432539
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP MILAN CHANNEL HD" tvg-logo="http://sltv-icon.cms-s.com/logo/Italy/milan.png" group-title="IT VIP SPORT",IT: VIP MILAN CHANNEL HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/432538
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP SPORTITALIA PLUS HD" tvg-logo="http://sltv-icon.cms-s.com/logo/Italy/sportItalia.png" group-title="IT VIP SPORT",IT: VIP SPORTITALIA PLUS HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/432537
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP SUPER TENNIS FHD" tvg-logo="http://sltv-icon.cms-s.com/logo/Italy/tennisPlus.png" group-title="IT VIP SPORT",IT: VIP SUPER TENNIS FHD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/432536
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP BIKE SMART MOBILITY HD" tvg-logo="http://sltv-icon.cms-s.com/logo/Italy/bikeSmart.png" group-title="IT VIP SPORT",IT: VIP BIKE SMART MOBILITY HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/432535
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP MS MOTOR TV HD" tvg-logo="http://sltv-icon.cms-s.com/logo/Italy/msMotor.png" group-title="IT VIP SPORT",IT: VIP MS MOTOR TV HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/432534
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIP SI SPORT ITALIA  HD PLUS" tvg-logo="" group-title="IT VIP SPORT",IT: VIP SI SPORT ITALIA  HD PLUS
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/433577
+#EXTINF:-1 tvg-id="eurosport1.de" tvg-name="IT: EUROSPORT 1 HD" tvg-logo="" group-title="IT VIP SPORT",IT: EUROSPORT 1 HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/623511
+#EXTINF:-1 tvg-id="eurosport2.de" tvg-name="IT: EUROSPORT 2 HD" tvg-logo="" group-title="IT VIP SPORT",IT: EUROSPORT 2 HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/623510
+#EXTINF:-1 tvg-id="" tvg-name="IT: SI HD PLUS" tvg-logo="" group-title="IT VIP SPORT",IT: SI HD PLUS
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/623509
+#EXTINF:-1 tvg-id="" tvg-name="IT: SI SPORT ITALIA  SOLO CALCIO" tvg-logo="" group-title="IT VIP SPORT",IT: SI SPORT ITALIA  SOLO CALCIO
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/623508
+#EXTINF:-1 tvg-id="" tvg-name="IT: SI SPORT ITALIA LIVE 24" tvg-logo="" group-title="IT VIP SPORT",IT: SI SPORT ITALIA LIVE 24
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/623507
+#EXTINF:-1 tvg-id="" tvg-name="IT: SI SPORT ITALIA HD PLUS" tvg-logo="" group-title="IT VIP SPORT",IT: SI SPORT ITALIA HD PLUS
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/623506
+#EXTINF:-1 tvg-id="" tvg-name="IT: RED BULL TV FHD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/red-bull-tv.png" group-title="IT VIP SPORT",IT: RED BULL TV FHD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/623505
+#EXTINF:-1 tvg-id="" tvg-name="IT: TELECOLOR-CATANIA" tvg-logo="" group-title="IT VIP SPORT",IT: TELECOLOR-CATANIA
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/623503
+#EXTINF:-1 tvg-id="" tvg-name="IT: HORSE TV HD" tvg-logo="" group-title="IT VIP SPORT",IT: HORSE TV HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/623502
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY ACI SPORT TV FHD" tvg-logo="" group-title="IT VIP SPORT",IT: SKY ACI SPORT TV FHD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/623501
+#EXTINF:-1 tvg-id="" tvg-name="IT: LAZIO CHANELL" tvg-logo="" group-title="IT VIP SPORT",IT: LAZIO CHANELL
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/623500
+#EXTINF:-1 tvg-id="" tvg-name="IT: BIKE CHANNEL FHD" tvg-logo="" group-title="IT VIP SPORT",IT: BIKE CHANNEL FHD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/623499
+#EXTINF:-1 tvg-id="" tvg-name="IT: SI SPORT ITALIA PLUS" tvg-logo="" group-title="IT VIP SPORT",IT: SI SPORT ITALIA PLUS
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/623498
+#EXTINF:-1 tvg-id="" tvg-name="IT: EQU TV" tvg-logo="" group-title="IT VIP SPORT",IT: EQU TV
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/623497
+#EXTINF:-1 tvg-id="" tvg-name="IT: CALCIO NAPOLI 24 TV" tvg-logo="" group-title="IT VIP SPORT",IT: CALCIO NAPOLI 24 TV
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/623496
+#EXTINF:-1 tvg-id="" tvg-name="IT: MS MOTOR TV" tvg-logo="" group-title="IT VIP SPORT",IT: MS MOTOR TV
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/623495
+#EXTINF:-1 tvg-id="" tvg-name="IT: EUROSPORT 3 HD" tvg-logo="" group-title="IT VIP SPORT",IT: EUROSPORT 3 HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/623494
+#EXTINF:-1 tvg-id="" tvg-name="IT: EUROSPORT 4 HD" tvg-logo="" group-title="IT VIP SPORT",IT: EUROSPORT 4 HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/623493
+#EXTINF:-1 tvg-id="" tvg-name="IT: EUROSPORT 5 HD" tvg-logo="" group-title="IT VIP SPORT",IT: EUROSPORT 5 HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/623492
+#EXTINF:-1 tvg-id="" tvg-name="IT: EUROSPORT 6 HD" tvg-logo="" group-title="IT VIP SPORT",IT: EUROSPORT 6 HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/623491
+#EXTINF:-1 tvg-id="" tvg-name="IT: NFL NETWORK FHD" tvg-logo="" group-title="IT VIP SPORT",IT: NFL NETWORK FHD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/623490
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY ONBOARD MIX" tvg-logo="" group-title="IT VIP SPORT",IT: SKY ONBOARD MIX
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/623489
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY ONBOARD MIX 2" tvg-logo="" group-title="IT VIP SPORT",IT: SKY ONBOARD MIX 2
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/623488
+#EXTINF:-1 tvg-id="" tvg-name="IT: JUVENTUS TV" tvg-logo="" group-title="IT VIP SPORT",IT: JUVENTUS TV
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/623487
+#EXTINF:-1 tvg-id="" tvg-name="IT: MOLA TV LIVE" tvg-logo="" group-title="IT VIP SPORT",IT: MOLA TV LIVE
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/623485
+#EXTINF:-1 tvg-id="" tvg-name="IT: MOLA TV 2" tvg-logo="" group-title="IT VIP SPORT",IT: MOLA TV 2
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/623484
+#EXTINF:-1 tvg-id="" tvg-name="IT: MOLA TV 3" tvg-logo="" group-title="IT VIP SPORT",IT: MOLA TV 3
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/623483
+#EXTINF:-1 tvg-id="" tvg-name="IT: MOLA TV  4" tvg-logo="" group-title="IT VIP SPORT",IT: MOLA TV  4
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/623482
+#EXTINF:-1 tvg-id="" tvg-name="IT: TOP PLANET" tvg-logo="" group-title="IT VIP SPORT",IT: TOP PLANET
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/623481
+#EXTINF:-1 tvg-id="" tvg-name="IT: ATP TENNIS PASS LIVE 1" tvg-logo="" group-title="IT VIP SPORT",IT: ATP TENNIS PASS LIVE 1
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/623480
+#EXTINF:-1 tvg-id="" tvg-name="IT: ATP TENNIS PASS LIVE 2" tvg-logo="" group-title="IT VIP SPORT",IT: ATP TENNIS PASS LIVE 2
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/623479
+#EXTINF:-1 tvg-id="" tvg-name="IT: ATP TENNIS PASS LIVE 3" tvg-logo="" group-title="IT VIP SPORT",IT: ATP TENNIS PASS LIVE 3
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/623478
+#EXTINF:-1 tvg-id="" tvg-name="IT: ATP TENNIS PASS LIVE 4" tvg-logo="" group-title="IT VIP SPORT",IT: ATP TENNIS PASS LIVE 4
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/623477
+#EXTINF:-1 tvg-id="" tvg-name="IT: ATP TENNIS PASS LIVE 5" tvg-logo="" group-title="IT VIP SPORT",IT: ATP TENNIS PASS LIVE 5
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/623476
+#EXTINF:-1 tvg-id="" tvg-name="IT: MOLA TV 5" tvg-logo="" group-title="IT VIP SPORT",IT: MOLA TV 5
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/623473
+#EXTINF:-1 tvg-id="" tvg-name="IT: PULSE LIVE EVENT CHANNEL" tvg-logo="" group-title="IT VIP SPORT",IT: PULSE LIVE EVENT CHANNEL
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/623472
+#EXTINF:-1 tvg-id="" tvg-name="IT: SI SPORT ITALIA PRIMAVERA" tvg-logo="" group-title="IT VIP SPORT",IT: SI SPORT ITALIA PRIMAVERA
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/623471
+#EXTINF:-1 tvg-id="" tvg-name="IT: MOLA TV  1" tvg-logo="" group-title="IT VIP SPORT",IT: MOLA TV  1
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/623470
+#EXTINF:-1 tvg-id="" tvg-name="IT: MOLA TV 7" tvg-logo="" group-title="IT VIP SPORT",IT: MOLA TV 7
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/623468
+#EXTINF:-1 tvg-id="" tvg-name="IT: MOLA TV 8" tvg-logo="" group-title="IT VIP SPORT",IT: MOLA TV 8
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/623467
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT MIX HD" tvg-logo="" group-title="IT VIP SPORT",IT: SKY SPORT MIX HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/623466
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT LEGEND HD" tvg-logo="" group-title="IT VIP SPORT",IT: SKY SPORT LEGEND HD
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/623465
+#EXTINF:-1 tvg-id="" tvg-name="IT: LAZIOSTYLE CHANEL" tvg-logo="" group-title="IT VIP SPORT",IT: LAZIOSTYLE CHANEL
+http://ip.sltv.be:8080/o6PRGr7ACg/vDnZefaAZs/623464
+
+
+
+
+
+
+
 
 
 
